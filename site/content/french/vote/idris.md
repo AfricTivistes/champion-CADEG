@@ -1,12 +1,17 @@
 ---
-title: Idris Bilyaminu Ndasadu'Lau, Fondateur de YAPD4Africa, Nigériaigeria
-projet: Rescue A Girl
-date: 2021-10-09T12:05:00.074Z
-description: Ce projet visait à réduire la précarité menstruelle en partageant des informations et des compétences adéquates pour soutenir les femmes et les filles marginalisées, quel que soit leur lieu de résidence au Nigeria. En 2020, lors de la Journée internationale des filles, ce projet a permis à plus de 300 femmes et filles de recevoir des serviettes hygiéniques gratuites dans le nord du Nigeria. Mais après le rapport de notre projet 2020, nous avons compris que les serviettes hygiéniques ne sont pas la meilleure solution pour mettre fin à la précarité menstruelle et à l'inégalité financière des femmes et des filles dans le monde. En 2021, nous avons conçu une stratégie de solution durable pour soutenir ces femmes et ces filles grâce à des serviettes réutilisables. 
-image: images/testimonial/idris.jpg
+projet: Toonabox 🇹🇬
+date: 2023-12-22T13:58:18.556Z
+description: >
+  ToonaBox est un pont numérique entre les dirigeants municipaux et les citoyens
+  pour faciliter les processus de prise de décision au Togo. Cette application
+  veut offrir aux citoyens un accès direct aux informations municipales et aux
+  projets publics en leur permettant de participer activement aux processus de
+  prise de décision.
 name: Idris Bilyaminu Ndasadu'Lau
-facebook: https://www.facebook.com/idrisBilyaminuNdasaduLau
-linkedIn: https://www.linkedin.com/IdrisBilyaminuNdasaduLau
+facebook: ""
 instagram: https://www.instagram.com/@activistndasadu
-twitter: https://www.twitter.com/@activistndasadu
+title: Toonabox
+image: /images/logo_toonabox.png
+linkedIn: https://www.linkedin.com/in/ameklou/
+twitter: https://twitter.com/ameklou
 ---
