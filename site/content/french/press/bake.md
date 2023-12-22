@@ -1,10 +1,10 @@
 ---
 title: Ivoirepresse
 date: 2021-06-09T13:13:00.120Z
-image: /images/capture-d’écran-2023-12-22-à-15.59.45.png
+image: /images/capture-d’écran-2023-12-22-à-16.48.08.png
 category:
   - Medias
-feature_image: /images/capture-d’écran-2023-12-22-à-15.59.45.png
+feature_image: /images/capture-d’écran-2023-12-22-à-16.48.08.png
 author: Abdoulaye Guene
 ---
 Pour motiver les innovateurs, AfricTivistes offre aux lauréats non seulement une reconnaissance à travers l'intégration d’une vaste communauté de valeurs, mais également un soutien financier et technique pour donner vie à leurs projets.
