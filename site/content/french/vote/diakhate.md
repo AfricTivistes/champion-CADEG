@@ -10,7 +10,7 @@ name: ""
 facebook: https://www.facebook.com/nidoroualmewaafe
 instagram: https://instagram.com/niintche?utm_medium=copy_link
 title: Nidoroualmewaafe
-image: /images/logo.png
+image: /images/nirou_logo.png
 linkedIn: https://www.linkedin.com/in/natwa-hindina-pierre-a6804819b/
 twitter: https://twitter.com/NatwaHindina
 ---
