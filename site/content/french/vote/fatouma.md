@@ -1,13 +1,14 @@
 ---
-title: Fatouma Harber, Co-fondatrice de SankoréLabs, Mali
-projet: Jeunes, Citoyenneté et Gouvernance locale 
-date: 2021-10-09T12:30:00.074Z
-description: Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté qui ont été créé dans les établissements d’enseignement secondaire, mais aussi en œuvrant pour une implication des jeunes dans la gouvernance locale à travers la réalisation d’une charte des jeunes pour la démocratie et la citoyenneté, mais aussi des réunions techniques qui vont prendre en compte les voix des jeunes pour une gouvernance locale réussie. Les discussions de groupes sur les thèmes de la citoyenneté, le plaidoyer-Lobbying, la démocratie et la gouvernance locale permettent aux jeunes de rentrer en contact avec l’actualité du pays et surtout de jouer un rôle dans le processus de stabilisation du Mali.
-image: /images/testimonial/fatouma.jpg
+title: ChatSN
+projet: CitoyenSN 🇸🇳
+date: 2023-12-22T13:43:46.948Z
+description: CitoyenSN est un guide juridique intelligent au Sénégal qui veut
+  simplifier aux citoyens l’obtention de réponses instantanées sur leurs droits
+  grâce à un chatbot, alimenté par l’Intelligence Artificielle.
+image: /images/citoyensn.png
 name: Fatouma Harber
-facebook: www.facebook.com/fatoumaharbert
-linkedIn: https://www.linkedin.com/in/fatouma-harber-a3406959/
-twitter: https://mobile.twitter.com/@Fatittystar
-site: SankoréLabs.com 
+facebook: ""
+site: SankoréLabs.com
+linkedIn: https://www.linkedin.com/in/cheikh-ahmed-tidiane-dieng/
+twitter: ""
 ---
-
