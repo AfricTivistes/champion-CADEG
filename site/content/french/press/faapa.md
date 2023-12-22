@@ -1,11 +1,12 @@
 ---
-title: "Faapa"
-date: 2021-06-09T13:13:00.120Z
-image: /images/faapa.png
+title: Social NetLink
+date: 2023-12-22T16:03:36.795Z
+image: /images/capture-d’écran-2023-12-22-à-16.03.14.png
 category:
   - Medias
-feature_image: /images/faapa.png
-author: Abdoulaye Guene
+feature_image: /images/capture-d’écran-2023-12-22-à-16.03.14.png
+author: Abdou Aziz Cissé
 ---
-Dakar, 20 juin (APS) – La Ligue africaine des blogueurs et cyber-activistes pour la démocratie (AfricTivistes) annonce vouloir récompenser, à travers un concours dénommé ‘’Prix AfricTivistes pour l’Action civique’’, les jeunes modèles et les acteurs de changement pour favoriser une émulation chez l’ensemble de la jeunesse africaine.
->Lire la suite: http://www.faapa.info/blog/africtivistes-cree-un-prix-pour-recompenser-jeunes-modeles-et-acteurs-de-changement/
+Le hackathon #Innov4Democracy est plus qu’un simple concours. Il s’agit d’une initiative stratégique visant à combiner la passion pour la technologie et la demande de participation citoyenne. En offrant une plateforme où les innovateurs peuvent se rencontrer, collaborer et développer.
+
+> Lire la suite: http://www.faapa.info/blog/africtivistes-cree-un-prix-pour-recompenser-jeunes-modeles-et-acteurs-de-changement/
