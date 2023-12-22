@@ -18,15 +18,17 @@ description: >
 
   Le processus de sélection est composée de plusieurs étapes qui ont chacune leur importance pour récompenser les meilleures innovations  lors d’un événement majeur continental qui se tiendra en 2024 dans une capitale africaine.
 image: /images/innov4democracy-3.jpg
-expertise_title: Pour le finalistes
+expertise_title: Pour le lauréat
 expertise_sectors:
-  - "Un trophée pour chaque finaliste "
-  - 5000Є pour chaque finaliste
+  - Trophée
+  - "Lauréat: US$10 000"
   - Matériel informatique et électronique
-  - "Networking "
-  - "Participation à un évèmennt continental "
-  - Renforcement de capacités
-  - 3 mois d’incubation
+  - Participation au Sommet AfricTivistes de Nairobi en Octobre 2021
+  - Voyages de partage et d’échanges d’expériences avec le réseau de nos
+    partenaires en Afrique et en Europe
+  - Grants pour répliquer le modèle ailleurs (dans les pays africains)
+  - Networking
+  - Autres selon la contribution des partenaires du Prix.
 ---
 Les 10 meilleurs projets seront présélectionnés pour le grand concours. Par la suite, les cinq meilleures équipes recevront une bourse de **5 000€** chacune et bénéficieront d’un accompagnement technique de AfricTivistes.
 
@@ -47,9 +49,10 @@ Outre le fait que les finalistes recevront un accompagnement technique et un ren
 
 #### Pour les finalistes:
 
-1. 5000Є pour chaque finaliste
-2. Un trophée pour chaque finaliste
+1. 5000 US€ chacun
+2. Un trophée
 3. Matériel informatique et électronique
 4. Networking
-5. Renforcement de capacités 
-6. 3 mois d’incubation
+5. Renforcement de capacités en différentes matières
+6. 3 mois d’incubation 
+7. Autres selon la contribution en espèce des partenaires du Prix

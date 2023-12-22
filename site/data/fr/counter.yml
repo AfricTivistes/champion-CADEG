@@ -1,14 +1,14 @@
 enable : true
-heading : "LE PRIX AFRICTIVISTES POUR L'ACTION CIVIQUE!"
+heading : "#Innov4Democracy en chiffres"
 counter_item: 
-  - title: "Acteurs de changement"
-    number: "200+"
+  - title: "Solutions numériques"
+    number: "25+"
 
   - title: "Pays"
-    number: "54"
-
-  - title: "Nominées"
-    number: "337"
-
-  - title: "Finalistes"
     number: "10"
+
+  - title: "Préfinalistes"
+    number: "10"
+  
+  - title: "Récompenses"
+    number: "25000€"

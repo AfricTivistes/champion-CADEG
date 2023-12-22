@@ -1,10 +1,10 @@
 ---
 title: Osiris
 date: 2023-12-22T15:57:57.075Z
-image: /images/capture-d’écran-2023-12-22-à-16.47.04.png
+image: /images/capture-d’écran-2023-12-22-à-15.57.13.png
 category:
   - Medias
-feature_image: /images/capture-d’écran-2023-12-22-à-16.47.04.png
+feature_image: /images/capture-d’écran-2023-12-22-à-15.57.13.png
 author: Abdou Aziz Cissé
 ---
 Dakar, 20 juin (APS) - Révolution Numérique pour la Démocratie : AfricTivistes offre 25 000€ pour les Innovateurs d’Afrique !
