@@ -11,7 +11,7 @@ exports.handler = async(event, context, callback) => {
   try {
     const user = jwt.verify(key, JWT_SECRET);
     const {langue} = user;
-    const link = (langue === "en") ? "https://prize.africtivistes.org/vote/?vote=yes" : "https://prize.africtivistes.org/fr/vote/?vote=yes";
+    const link = (langue === "en") ? "https://innovdemocracy.netlify.app/vote/?vote=yes" : "https://innovdemocracy.netlify.app/vote/?vote=yes";
     await addTosheet(user).then(
       (result) => {
         callback(null, {
@@ -25,7 +25,7 @@ exports.handler = async(event, context, callback) => {
     return {
       statusCode: 302,
       headers: {
-        "Location": "https://prize.africtivistes.org/"
+        "Location": "https://innovdemocracy.netlify.app/"
       },
     };
   }
