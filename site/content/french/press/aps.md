@@ -1,11 +1,15 @@
 ---
-title: "APS"
-date: 2021-06-09T13:13:00.120Z
-image: /images/aps.png
+title: Osiris
+date: 2023-12-22T15:57:57.075Z
+image: /images/capture-d’écran-2023-12-22-à-15.57.13.png
 category:
   - Medias
-feature_image: /images/aps.png
-author: Abdoulaye Guene
+feature_image: /images/capture-d’écran-2023-12-22-à-15.57.13.png
+author: Abdou Aziz Cissé
 ---
-Dakar, 20 juin (APS) - La Ligue africaine des blogueurs et cyber-activistes pour la démocratie (AfricTivistes) annonce vouloir récompenser, à travers un concours dénommé ‘’Prix AfricTivistes pour l’Action civique’’, les jeunes modèles et les acteurs de changement pour favoriser une émulation chez l’ensemble de la jeunesse africaine
->Lire la suite: http://aps.sn/actualites/societe/article/africtivistes-lance-le-prix-africtivistes-pour-l-action-civique
+Dakar, 20 juin (APS) - Révolution Numérique pour la Démocratie : AfricTivistes offre 25 000€ pour les Innovateurs d’Afrique !
+
+\
+AfricTivistes, par le biais de ce hackathon, vise à encourager l’avènement d’outils numériques innovants pour promouvoir la gouvernance démocratique. \
+\
+Lire la suite: http://www.osiris.sn/Revolution-Numerique-pour-la.html
