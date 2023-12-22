@@ -1,11 +1,14 @@
 ---
-title: Hamzat Bala Lawal, Fondateur de Connected Development (CODE), Nigéria
-projet: Follow The Money
+title: Bingwa Civic Tech Lab
+projet: Jambo-Jumbe App 🇨🇩
 date: 2021-10-09T12:10:00.074Z
-description: Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base. Fondé en 2020 par Hamzat Lawal et lancé au Nigeria comme une initiative locale, il évolue désormais au Kenya, en Gambie, au Malawi, au Cameroun, au Zimbabwe et au Liberia. Follow The Money activera plus de 8000 utilisateurs actifs dans les 774 gouvernements locaux à travers le Nigeria qui sont membres du Mouvement pour documenter et suivre les interventions COVID19 des gouvernements, du secteur privé et des donateurs internationaux en utilisant des outils technologiques. Follow The Money a remporté le prix Mobilisateur 2019 des Nations unies pour les objectifs de développement durable. Cette annonce a été faite lors du Festival mondial d'action sur les ODD qui s'est tenu à Bonn, en Allemagne.
-image: images/testimonial/hamzat.jpg
+description: Jambo-Jumbe App se veut être un outil de transformation sociale
+  fournissant des informations favorisant la participation des communautés
+  locales aux questions relatives à la gouvernance dans l’Est de la République
+  Démocratique du Congo (RDC).
+image: /images/logo-carré_jambojumbe.png
 name: Hamzat Bala Lawal
-facebook: https://www.facebook.com/hamzatblawal
-linkedIn: https://www.linkedin.com/in/hamzat-lawal-85409129/
-twitter: https://twitter.com/HamzyCOD
+facebook: https://www.facebook.com/providence.baraka
+linkedIn: https://www.linkedin.com/in/providence-baraka-904b31122/
+twitter: https://twitter.com/ProvidenceBara3
 ---
