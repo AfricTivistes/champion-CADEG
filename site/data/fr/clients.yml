@@ -1,11 +1,12 @@
 enable        : true
 title         : "Partenaires"
 client_logos  : 
- ["images/clients/AFDB.png",
- "images/clients/wacsi.png",
- "images/clients/cfi.png",  
- "images/clients/wathi.png",
- "images/clients/nalla1.png",
- "images/clients/africajom.jpg",
- "images/clients/clemson.png", 
- "images/clients/article19.jpg"] 
+ [
+ "images/clients/africtivistes.svg",
+ "images/clients/codeforafrica.svg",
+ "images/clients/dwf.svg",  
+ "images/clients/ecdpm.svg",
+ "images/clients/epd.svg",
+ "images/clients/goree.svg",
+ 
+ ]
