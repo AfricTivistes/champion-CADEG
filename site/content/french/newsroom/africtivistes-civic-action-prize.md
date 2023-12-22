@@ -1,5 +1,5 @@
 ---
-title: "AfricTivistes Présente #Innov4Democracy: Comment participer à la
+title: "AfricTivistes Présente #Innov4Democracy: comment participer à la
   complétion d’innovation technologique au service de la démocratie !"
 date: 2023-12-22T16:19:41.326Z
 image: /images/26.jpg
