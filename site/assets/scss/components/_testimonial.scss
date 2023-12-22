@@ -1,5 +1,4 @@
 .site-testimonial{
-  background: $gray;
   padding: 100px 0;
   overflow: hidden;
   &-item{
@@ -30,13 +29,14 @@
         }
         p{
           margin-bottom: 0;
-          color: $dark-gray;
+          color: $text-color-dark;
         }
       }
     }
     &-body{
       margin-bottom: 0;
       font-weight: 300;
+      color: $black;
     }
   }
 }

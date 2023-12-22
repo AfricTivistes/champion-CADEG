@@ -1,7 +1,7 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "/images/backgrounds/5finalistes.png"
+background_image      = "/images/backgrounds/hackathon-visuels.jpeg"
 heading               = ""
 tagline               = ""
 primary_button        = "À propos"
