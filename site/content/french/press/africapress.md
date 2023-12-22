@@ -1,11 +1,13 @@
 ---
-title: "Africa press"
-date: 2021-06-09T13:13:00.120Z
-image: /images/africapresss.png
+title: PressAfrik
+date: 2023-12-22T15:40:56.809Z
+image: /images/capture-d’écran-2023-12-22-à-15.44.25.png
 category:
   - Medias
-feature_image: /images/africapresss.png
-author: Abdoulaye Guene
+feature_image: /images/capture-d’écran-2023-12-22-à-15.44.25.png
+author: Abdou Aziz Cissé
 ---
-Africa-Press – Senegal. La Ligue africaine des blogueurs et cyber-activistes pour la démocratie (AfricTivistes) annonce vouloir récompenser, à travers un concours dénommé ‘’Prix AfricTivistes pour l’Action civique’’, les jeunes modèles et les acteurs de changement pour favoriser une émulation chez l’ensemble de la jeunesse africaine.
->Lire la suite: https://www.africa-press.net/senegal/toutes-les-actualites/africtivistes-cree-un-prix-pour-recompenser-jeunes-modeles-et-acteurs-de-changement
+Rejoignez la compétition panafricaine d’innovation numérique qui récompense les innovateurs ayant mis leurs talents au service de la démocratie. AfricTivistes dans le cadre du Charter Project Africa, lance un défi aux jeunes talents : concevez des solutions digitales pour renforcer la démocratie et la bonne gouvernance.
+
+\
+Lire la suite: https://www.pressafrik.com/Revolution-Numerique-pour-la-Democratie-AfricTivistes-offre-25-000-pour-les-Innovateurs-d-Afrique_a264372.html
