@@ -1,12 +1,12 @@
 ---
-title: "APA news"
-date: 2021-06-09T13:13:00.120Z
-image: /images/apanewss.png
+title: Afrique IT News
+date: 2023-12-22T15:50:00.506Z
+image: /images/capture-d’écran-2023-12-22-à-15.49.11.png
 category:
   - Medias
-feature_image: /images/apanewss.png
-author: Abdoulaye Guene
+feature_image: /images/capture-d’écran-2023-12-22-à-15.49.11.png
+author: Abdou Aziz Cissé
 ---
-APA-Dakar (Sénégal) Par Edouard Touré
-Le prix pour l’Action civique sera décerné pour la première fois lors du 3ème sommet AfricTivistes qui se tiendra à Nairobi (Kenya) en octobre 2021.
->Lire la suite: http://apanews.net/news/afrique-un-prix-recompensant-lengagement-communautaire-de-la-jeunesse
+Le hackathon se déroule sur plusieurs mois, commençant par un appel à candidatures en octobre et se terminant par un événement de renforcement des capacités et de production. Ensuite, les équipes lauréates bénéficieront d’une période d’incubation de trois mois\
+\
+Lire la suite: https://afriqueitnews.com/tech-media/africtivistes-lance-hackathon-faveur-democratie-afrique/

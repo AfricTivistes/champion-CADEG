@@ -1,12 +1,24 @@
 ---
-title: Muazu Alhaji Modu, Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria
-projet: Citizen - Led Tracking Initiative
-date: 2021-10-09T12:15:00.074Z
-description: L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes et de suivre les dépenses des gouvernements en matière de services sociaux, de santé, d'éducation, d'eau, d'assainissement et d'hygiène (WASH) dans les communautés de base afin d'accroître et de garantir la responsabilisation et d'améliorer la prestation des services publics au niveau infranational.L'initiative suit actuellement la mise en œuvre du Fonds pour l'approvisionnement en soins de santé de base dans 30 communautés de l'État de Yobe, au Nigeria, et devrait avoir un impact sur 1200 vies rurales et garantir la possibilité d'une couverture universelle des soins de santé. En l'espace de 21 mois, l'initiative de suivi par les citoyens a permis à plus de 500 jeunes et acteurs communautaires de 60 communautés au Nigeria de renforcer leur capacité à demander des comptes au gouvernement de manière indépendante.
-image: images/testimonial/muazu.jpg
+projet: YoungVoice Analytica 🇸🇳
+date: 2023-12-22T14:14:54.474Z
+description: >
+  YoungVoice Analytica veut transcende les limites de l'engagement démocratique
+  en créant une plateforme unique qui marie l'énergie créative des jeunes avec
+  la sophistication des sciences de données. Notre solution offre un espace
+  interactif où chaque jeune citoyen peut non seulement partager ses idées, mais
+  aussi participer à des débats informés qui façonnent activement les décisions
+  politiques.
+
+
+  La plateforme veut favorise un dialogue dynamique où chaque jeune est encouragé à exprimer ses opinions. Des fonctionnalités interactives stimulent des discussions significatives, transformant ainsi chaque interaction en un acte de participation démocratique.
+
+
+  Au-delà de l'engagement, YoungVoice Analytica investit dans l'éducation. Des modules éducatifs numériques novateurs élèvent la compréhension des jeunes sur les processus démocratiques, les armant ainsi pour une participation plus informée.
 name: Muazu Alhaji Modu
 facebook: https://www.facebook.com/muazul1
-linkedIn: https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
 instagram: https://www.instagram.com/Muazu_little4
-twitter: https://www.instagram.com/Muazulittle4 
+title: "AgriConnect "
+image: /images/logo_youngvoice-analytica.png
+linkedIn: https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
+twitter: https://www.instagram.com/Muazulittle4
 ---

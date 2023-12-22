@@ -1,20 +1,56 @@
 ---
-title: "#AfricTivistesPrize"
-date: 2021-05-28T13:13:00.120Z
-image: /images/red-and-white-quotes-twitter-post.png
+title: "AfricTivistes Présente #Innov4Democracy: comment participer à la
+  complétion d’innovation technologique au service de la démocratie !"
+date: 2023-12-22T16:19:41.326Z
+image: /images/26.jpg
 category:
   - Communiqué
-feature_image: /images/red-and-white-quotes-twitter-post.png
-author: Sokhna Cisse
+feature_image: /images/26.jpg
+author: Abdou Aziz Cissé
 ---
-AfricTivistes veut récompenser les jeunes modèles et acteurs de changement pour favoriser une émulation chez l’ensemble de la jeunesse africaine. Nous comptons, à travers le **Prix AfricTivistes pour l’Action Civique**, honorer les champions citoyens du continent. Nous voulons démontrer le potentiel de la jeunesse africaine en tant que moteur de développement et acteur de changement. D’autant que depuis plus d’une décennie, les jeunes du continent rivalisent d’ingéniosité dans la construction de la citoyenneté et l’acquisition de nouvelles compétences. Mieux, ils se montrent engagés pour répondre à des exigences de démocratie, de gouvernance et de transparence à travers des projets citoyens portés individuellement ou collectivement.
+*Rejoignez la compétition panafricaine d’innovation numérique qui récompense les innovateurs ayant mis leurs talents au service de la démocratie. AfricTivistes dans le cadre du Charter Project Africa, lance un défi aux jeunes talents : concevez des solutions digitales pour renforcer la démocratie et la bonne gouvernance. Montrez votre expertise, que vous soyez développeur, graphiste, designer ou simple passionné. Les meilleures innovations seront récompensées lors d’un événement majeur du 10 au 13 janvier 2024 à Cotonou.*
 
-> Le Prix AfricTivistes pour l’Action Civique sera décerné pour la première fois lors du 3e sommet AfricTivistes au mois de novembre 2021 à Abidjan.
 
-Jusque-là, AfricTivistes honorait les meilleurs journalistes et blogueurs qui s’activent dans l’engagement citoyen à travers le **PRIX ANNA GUEYE** en hommage à notre camarade feue Anna Gueye. Aujourd’hui, AfricTivistes va plus loin. Elle élève les jeunes africains qui se sont fait le plus remarquer dans le continent pour avoir initié des projets innovants ou actions civiques et citoyennes porteurs de changement dans leurs communautés respectives.
 
-Nous sommes impatients de découvrir vos champions citoyens. Pour autant qu’ils/elles soient jeunes africains, acteurs de changement et initiateurs(trices) de projets à fort impact social.
+**🚀 Le Challenge** 
 
-### À propos de AfricTivistes
+Pour promouvoir la création d’outils numériques innovants qui renforcent la démocratie et la bonne gouvernance en Afrique en particulier au niveau local, AfricTivistes ouvre la Compétition panafricaine *\#Innov4Democracy*.  Ce hackathon concours à tirer profit à la fois des talents de la jeunesse et des opportunités de  la révolution numérique. AfricTivistes à la forte conviction que la rencontre technologies numériques et jeunesse africaine constitue une réponse aux principaux défis du continent.
 
-Créée officiellement en 2015, AfricTivistes est résolue à intervenir directement ou indirectement dans les différents processus de changement politique et social. L’organisation est également dans la promotion de la citoyenneté augmentée et de l’engagement des jeunes. Consciente des enjeux démocratiques et de justice sociale, elle appuie et défend les valeurs de solidarité africaine et de droits humains.
+
+
+**🌍 Pourquoi Participer ?**
+
+A travers ce programme, AfricTivistes compte rassembler les développeurs, graphistes, designers, et toute personne passionnée et ouverte d’esprit prête à travailler en équipe.
+
+Il s’agit pour les participants d’une opportunité pour mettre en valeur leur forte adhésion à la culture démocratique et ainsi contribuer à la promotion de la Charte africaine pour la démocratie, les élections et la gouvernance (CADEG), principal instrument politique de l’Union africaine en matière de gouvernance démocratique.
+
+\
+**🌟 Qu’attendons-nous ?**
+
+Nous cherchons des solutions innovantes, allant des applications web/mobiles à d’autres initiatives technologiques, qui :
+
+* 1- Encouragent la participation citoyenne, surtout des jeunes et des groupes marginalisés.
+* 2- Facilitent l’accès à l’information publique.
+* 3- Promeuvent la participation des jeunes dans les processus électoraux. … et bien plus !
+
+\
+**🏆 Les Récompenses :**
+
+Les 10 meilleurs projets seront présélectionnés pour le grand concours. Par la suite, les cinq meilleures équipes recevront une bourse de **5 000€** chacune et bénéficieront d’un accompagnement technique de AfricTivistes.
+
+\
+**📅 Les Dates à Retenir :**
+
+La compétition se déroule du **10** au **13 janvier 2024.** À la fin, les équipes présenteront leurs projets devant un jury d’experts. Les cinq meilleures innovations seront distinguées, avec des récompenses financières.
+
+**✍️ Comment Participer ?**
+
+Si vous êtes motivé et prêt à vous engager pour la démocratie en Afrique, soumettez votre projet sur notre site dès maintenant.
+
+Rejoignez la communauté d’acteurs de changement pour innover et impacter ! Pour plus d’informations et pour soumettre votre projet, télécharger les documents suivants et remplissez le formulaire de candidature:
+
+Pour en savoir plus sur le règlement intérieur: <https://urlz.fr/otOR>
+
+Pour plus d’informations, veuillez nous écrire sur: [innov4democracy@africtivistes.org](mailto:innov4democracy@africtivistes.org)
+
+*Ne manquez pas cette chance de laisser votre empreinte sur le futur du continent !*

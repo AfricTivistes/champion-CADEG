@@ -1,12 +1,20 @@
 ---
-title: Mamadou Diakhaté, Fondateur de l’association Simple Action Citoyenne Sénégal
-projet: Rénovation des écoles délabrées du Sénégal à partir de l’engagement communautaire
-date: 2021-10-09T12:58:40.074Z
-description: La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service la formation dans des métiers à travers les différents chantiers de rénovations d'écoles, de forage de puits….. Elle est aussi un incubateur social pour tous les étudiants, en rupture de scolarité et même de jeunes déviants sociaux.
-image: images/testimonial/diakhate.jpg
-name: Mamadou Diakhaté
-facebook: https://www.facebook.com/junior.kara.92
-linkedIn: https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
+projet: Nidoroualmewaafe 🇹🇩
+date: 2023-12-22T13:23:10.304Z
+description: >
+  Nidoroualmewaafe est une initiative qui a pour objectif de mettre le pouvoir
+  des données entre les mains des citoyens. Ainsi, via une plateforme
+  interactive, ce projet veut permettre aux plus hautes autorités de répondre
+  aux besoins exprimés par les citoyens afin de trouver des solutions aux
+  besoins sociaux primaires des populations du Tchad.
+
+
+  Cette plateforme gratuite et conviviale est accessible via les smartphones, les applications Web, les e-mails, les SMS et Twitter, la rendant accessible à tous.
+name: ""
+facebook: https://www.facebook.com/nidoroualmewaafe
 instagram: https://instagram.com/niintche?utm_medium=copy_link
-twitter: https://twitter.com/Niintche?s=08
+title: Nidoroualmewaafe
+image: /images/nirou_logo.png
+linkedIn: https://www.linkedin.com/in/natwa-hindina-pierre-a6804819b/
+twitter: https://twitter.com/NatwaHindina
 ---
