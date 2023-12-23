@@ -1,120 +1,126 @@
 enable  : true
-title   : "CHAMPION CITOYEN, RÉSULTATS VOTE"
-subtitle: "Ci-dessous la liste des préfinalistes du Prix AfricTivistes pour l'Action Civique"
+title   : "Les Innovateurs au service de la démocratie ! "
+subtitle: "Ci-dessous la liste des préfinalistes de #Innov4Democracy"
 testimonial_item :
-  - thumb : "images/testimonial/muazu.jpg"
-    name  : "Muazu Alhaji Modu"
+  - thumb : "/images/citoyensn.png"
+    name  : "Citoyen SN"
     id    : c6
-    company_position: "Fondateur de l’initiative Spotlight for Transparency and Accountability, Nigéria"
-    url: vote/muazu
+    company_position: "ChatSN 🇸🇳"
+    url: vote/chat-sn
     quote : > 
-            L'initiative de suivi par les citoyens est une initiative de responsabilisation sociale fondée sur les données qui utilise les chiffres et exploite la technologie numérique pour donner aux citoyens à la base les moyens d'exiger des comptes ...
-    facebook : https://www.facebook.com/muazul1
-    linkedIn : https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
-    instagram : https://www.instagram.com/Muazu_little4
-    twitter   : https://www.instagram.com/Muazulittle4
+            CitoyenSN est un guide juridique intelligent au Sénégal qui veut simplifier
+            aux citoyens l’obtention de réponses instantanées sur leurs droits grâce à un
+            chatbot, alimenté par l’Intelligence Artificielle....
+    facebook: ""
+    linkedIn: https://www.linkedin.com/in/cheikh-ahmed-tidiane-dieng/
+    twitter: ""
 
-  - thumb : "images/testimonial/diakhate.jpg"
-    name  : "Mamadou Diakhaté"
+  - thumb : "/images/logo1.png"
+    name  : "Clic Citoyen"
     id    : c1
-    company_position: "Fondateur de l’association Simple Action Citoyenne Sénégal"
-    url: vote/diakhate
+    company_position: "Clic Citoyen 🇧🇯"
+    url: vote/clic-citoyen
     quote : > 
-            La Team Niintche a pour projet d’inculquer aux jeunes et aux adultes mais aussi aux enfants la notion d’engagement communautaire grâce à des actions qui les engagent et qui impactent de façon réelle sur le quotidien des populations. Elle assure grâce au community service...
-    facebook : https://www.facebook.com/junior.kara.92
-    linkedIn : https://www.linkedin.com/in/junior-diakhate-niintche-3b007519b
-    instagram : https://instagram.com/niintche?utm_medium=copy_link
-    twitter : https://twitter.com/Niintche?s=08
+            Le Clic citoyen est une initiative qui vise à mettre en place une plateforme
+            numérique cataloguant les institutions quasi judiciaires au Bénin Les citoyens
+            victimes de violation de leurs droits ou témoins des actes de corruption ou
+            d’autres actes anti-sociaux pourront saisir, en un clic, lesdites institutions
+            via cet interface...
+    facebook: https://www.facebook.com/profile.php?id=100068192543313
+    linkedIn: https://www.linkedin.com/company/clic-citoyen/
+    twitter: https://twitter.com/clic_citoyen
 
-  - thumb : "images/testimonial/djamila.jpg"
-    name  : "Djamila Boubacar Sahabi"
+  - thumb : "/images/img-20231220-wa0041.jpg"
+    name  : "FasoBiga"
     id    : c10
-    company_position: "Fondatrice de Actu Magazine & Nissa Pad , Niger"
-    url: vote/djamila
+    company_position: "FasoBiga 🇧🇫"
+    url: vote/faso-biga
     quote : > 
-            Nissa  Pad est une marque de serviette hygiénique lavables en coton biologique certifié, non teint et non blanchi, confortable, amie de votre Budget .3 fois plus absorbante que les serviettes jetables et tampons pour un flux menstruelle moyen à abondant ainsi ...
-    facebook : https://www.facebook.com/Nissa-Pad-111523937194558/ 
-    instagram : https://www.instagram.com/NissaPad
-    twitter : https://www.twitter.com/@Actumagazine
-    site :  www.actumag.net
+            FasoBiga a pour ambition d’être une application web qui vise la
+            participation massive de la jeunesse burkinabè à la démocratie et aux futures
+            processus électoraux dans le pays...
+    facebook: https://www.facebook.com/ramata.sawadogo.904?mibextid=ZbWKwL
+    instagram: https://www.instagram.com/fibanda1/
 
-  - thumb : "images/testimonial/divine.jpg"
-    name  : "Divine Ingabire"
+  - thumb : "/images/logo-isika.png"
+    name  : "Isika"
     id    : c2
-    company_position: "Fondatrice et Directrice Exécutive de I Matter Initiative, Rwanda"
-    url: vote/divine
+    company_position: "Isika 🇲🇬"
+    url: vote/isika
     quote : > 
-            I Matter Initiative est une organisation dirigée par des jeunes (ONG) enregistrée sous le Rwanda Governance Board (RGB) depuis 2019, qui travaille pour mettre fin à la pauvreté liée aux règles et à la stigmatisation liée aux menstruations au Rwanda...
-    facebook : https://web.facebook.com/Imatterinitiative
-    twitter : https://twitter.com/Imatter_Period
-    site : https://imatterinitiative.org/
+            Isika est une plateforme numérique de participation citoyenne au Madagascar
+            qui favorise l’engagement et la participation des citoyens et des citoyennes
+            en les mettant au cœur du processus de prise de décisions au niveau local...
+    facebook: https://www.facebook.com/aeger0
+    site: https://imatterinitiative.org/
+    linkedIn: https://www.linkedin.com/company/isika-mg/
+    twitter: ""
 
-  - thumb : "images/testimonial/laetitia.jpg"
-    name  : "Laetitia Carelle Goli"
+  - thumb : "/images/nirou_logo.png"
+    name  : "Nidoroualmewaafe"
     id    : c5
-    company_position: "Fondatrice de l’Académie Politique des Femmes, Côte d’Ivoire"
-    url: vote/laetitia
+    company_position: "Nidoroualmewaafe 🇹🇩"
+    url: vote/nidoroualmewaafe
     quote : > 
-            L’Académie politique des femmes est une école de formation politique des femmes de la société civile et politique. Pendant 3 mois, elles sont formées à la science politique, à la citoyenneté. Avec l'académie politique des femmes, ...
-    facebook : https://www.facebook.com/apofem
-    linkedIn : https://www.linkedin.com/CarelleLaetitiaGoli
-    instagram : https://www.instagram.com/carellelaetitia
-    twitter : https://www.twitter.com/Laetitiacarell1
-
-  # - thumb : "images/testimonial/fatouma.jpg"
-  #   name  : "Fatouma Harber"
-  #   id    : c4
-  #   company_position: "Co-fondatrice de SankoréLabs"
-  #   url: /fr/vote/fatouma
-  #   quote : > 
-  #           Le présent projet concerne une action auprès des jeunes pour reconstruire leur esprit de citoyenneté qui semble avoir des défaillances ces derniers temps au Mali. Il permet d’intéresser les jeunes à la citoyenneté à travers les clubs de citoyenneté...
-  #   facebook : www.facebook.com/fatoumaharbert
-  #   linkedIn : https://www.linkedin.com/in/fatouma-harber-a3406959/
-  #   twitter : https://mobile.twitter.com/@Fatittystar
-  #   site : SankoréLabs.com
-
-  # - thumb : "images/testimonial/idris.jpg"
-  #   name  : "Idris Bilyaminu Ndasadu'Lau"
-  #   id    : c8
-  #   company_position: "Fondateur de YAPD4Africa, Nigéria"
-  #   url: /fr/vote/idris
-  #   quote : > 
-  #           Ce projet visait à réduire la pauvreté périodique en partageant des informations et des compétences adéquates pour soutenir les femmes et les filles marginalisées, quel que soit leur lieu de résidence au Nigeria. En 2020, ...
-  #   facebook : https://www.facebook.com/idrisBilyaminuNdasaduLau
-  #   linkedIn : https://www.linkedin.com/IdrisBilyaminuNdasaduLau
-  #   instagram : https://www.instagram.com/@activistndasadu
-  #   twitter : https://www.twitter.com/@activistndasadu
+            Nidoroualmewaafe est une initiative qui a pour objectif de mettre le pouvoir
+            des données entre les mains des citoyens. Ainsi, via une plateforme
+            interactive, ce projet veut permettre aux plus hautes autorités de répondre
+            aux besoins exprimés par les citoyens afin de trouver des solutions aux
+            besoins sociaux primaires des populations du Tchad....
+  
+  - thumb : "/images/logo-ratoma.jpg"
+    name  : RatomaTech"
+    id    : c5
+    company_position: "RatomaTech 🇬🇳"
+    url: vote/ratoma-tech
+    quote : > 
+            RatomaTech est une plateforme numérique qui a pour ambition de faciliter  aux
+            citoyens de la commune de Ratoma (République de Guinée), l’accès aux
+            informations publiques liées à la gestion de leur commune à travers la
+            centralisation des données pour favoriser la transparence...
     
-  # - thumb : "images/testimonial/adams.jpg"
-  #   name  : "Adams Cassinga"
-  #   id    : c9
-  #   company_position: "Fondateur de Conserv Congo"
-  #   url: /fr/vote/adams
-  #   quote : > 
-  #           Conserv CONGO est une association locale à but non lucratif qui se concentre sur la lutte contre le fléau du trafic d'espèces sauvages en RDC et dans la région de l'Afrique centrale...
-  #   facebook : https://www.facebook.com/AdamsCassinga
-  #   linkedIn : https://www.linkedin.com/AdamsCassinga
-  #   twitter : https://www.twitter.com/@Amini16
+  - thumb : "/images/politc’elles-logo.png"
+    name  : "Politc’Elles"
+    id    : c5
+    company_position: "Politc’Elles 🇧🇯"
+    url: vote/politec-elles
+    quote : > 
+            Politc’Elles est une plateforme qui se veut d’être un lieu de rencontre,
+            d’éducation sur la démocratie, le leadership politique et d’engagement civique
+            pour les jeunes mais en particulier pour les femmes au Bénin.
 
-  # - thumb : "images/testimonial/fibanda.jpg"
-  #   name  : "Fibanda Brotry"
-  #   id    : c3
-  #   company_position: "Fondateur de l’initiative Wezesha Young Farmers, Kenya"
-  #   url: /fr/vote/fibanda
-  #   quote : > 
-  #           L'initiative Wezesha pour les jeunes agriculteurs est un concept intéressant qui relie la conservation de l'environnement, l'action climatique et l'agriculture en utilisant l'approche agroécologique. Cette initiative est dirigée par Fibanda, de la société de conseil APSID...
-  #   facebook : https://web.facebook.com/EcologistFibanda/?_rdc=1&_rdr
-  #   linkedIn : https://www.linkedin.com/in/vincent-fibanda-b5a7a9153/
-  #   instagram : https://www.instagram.com/fibanda1/ 
-  #   twitter : https://mobile.twitter.com/Fibanda1
+  - thumb : "/images/logo_toonabox.png"
+    name  : "Toonabox"
+    id    : c5
+    company_position: "Toonabox 🇹🇬"
+    url: vote/toonabox
+    quote : > 
+            ToonaBox est un pont numérique entre les dirigeants municipaux et les citoyens
+            pour faciliter les processus de prise de décision au Togo. Cette application
+            veut offrir aux citoyens un accès direct aux informations municipales et aux
+            projets publics en leur permettant de participer activement aux processus de
+            prise de décision...
 
-  # - thumb : "images/testimonial/hamzat.jpg"
-  #   name  : "Hamzat Bala Lawal"
-  #   id    : c7
-  #   company_position: "Fondateur de Connected Development (CODE), Nigéria"
-  #   url: /fr/vote/hamzat
-  #   quote : > 
-  #           Follow The Money est un mouvement populaire panafricain qui tente de répondre à la question de savoir d'où viennent les fonds, où ils vont, mais aussi comment ces fonds sont judicieusement utilisés pour avoir un impact sur les communautés de base...
-  #   facebook : https://www.facebook.com/hamzatblawal
-  #   linkedIn : https://www.linkedin.com/in/hamzat-lawal-85409129/
-  #   twitter : https://twitter.com/HamzyCODE
+  - thumb : "/images/logo_youngvoice-analytica.png"
+    name  : "YoungVoice Analytica"
+    id    : c5
+    company_position: "YoungVoice Analytica 🇸🇳"
+    url: vote/youngVoice-analytica
+    quote : > 
+            YoungVoice Analytica veut transcende les limites de l'engagement démocratique
+            en créant une plateforme unique qui marie l'énergie créative des jeunes avec
+            la sophistication des sciences de données. Notre solution offre un espace
+            interactif où chaque jeune citoyen peut non seulement partager ses idées, mais
+            aussi participer à des débats informés qui façonnent activement les décisions
+            politiques...
+
+  - thumb : "/images/logo-carré_jambojumbe.png"
+    name  : "Jambo-Jumbe App"
+    id    : c5
+    company_position: "Jambo-Jumbe App 🇨🇩"
+    url: vote/bingwa-civic-tech-tab
+    quote : > 
+            Jambo-Jumbe App Jamjumbe App [Jambo-Jumbe App) est une combinaison de deux
+            concepts issus de la lange Swahili : Jambo (Une salutation) et Jumbe(Messages)
+            étant donné qu’en Afrique, un message de salutation est l'élément déclencheur
+            de toute interaction sociale....

@@ -130,7 +130,7 @@ const sendEmail = (data) => {
             width="140"
             height="56"
             alt="AfricTivistes Civic Action Prize"
-            src="https://innovdemocracy.netlify.app/images/logo.png"
+            src="https://prize.africtivistes.org/images/logo.png"
           />
 
           <h1>${title}</h1>
@@ -143,7 +143,7 @@ const sendEmail = (data) => {
             <a href="${link}">${link}</a>
           </p>
           <hr />
-          <a class="social" href="https://innovdemocracy.netlify.app"
+          <a class="social" href="https://prize.africtivistes.org"
             >prize.africtivistes.org</a
           >
           <div style="margin-bottom: 48px;"></div>
