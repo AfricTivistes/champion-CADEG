@@ -18,7 +18,7 @@ name: Muazu Alhaji Modu
 facebook: https://www.facebook.com/muazul1
 instagram: https://www.instagram.com/Muazu_little4
 title: "AgriConnect "
-image: /images/logo_youngvoice-analytica.png
+image: /images/img-20231223-wa0013.jpg
 linkedIn: https://www.linkedin.com/in/muazu-alhaji-modu-4912a698
 twitter: https://www.instagram.com/Muazulittle4
 ---
