@@ -18,7 +18,7 @@ primary_button_url  = "vote"
 
 [newsroom]
 enable    = true
-title     = "NEWSROOM"
+title     = "ACTUALITÉS"
 subtitle  = "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
 
 [press]
@@ -38,7 +38,7 @@ subtitle  = ""
     title   = "Informations de contact"
     address = "AfricTivistes, BP : 19968 (Sénégal)"
     phone   = "(+221) 33 837 51 24"
-    email   = "info@africtivistes.org"
+    email   = "innov4democracy@africtivistes.org"
     # Footer Sitemap
     [footer.sitemap]
     title   = "Sitemap"
@@ -49,7 +49,7 @@ subtitle  = ""
         name = "À propos"
         url  = "about"
     [[footer.sitemap.link]]
-        name = "Newsroom"
+        name = "Actualités"
         url  = "newsroom"
     [[footer.sitemap.link]]
         name = "Nominer quelqu'un"
@@ -65,5 +65,5 @@ subtitle  = ""
         url  = "https://www.facebook.com/africtivistes/"
     # Footer Service
     [footer.service]
-    title       = "Prix AfricTivistes pour l'action civique"
-    description = "Récompenser les champions citoyens"
+    title       = "#Innov4Democracy"
+    description = "Reconnaitre les Innovateurs au service de la démocratie !"
