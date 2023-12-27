@@ -1,6 +1,6 @@
 $(document).ready(function () {
   "use strict";
-  const url = 'http://innovdemocracy.africtivistes.com/api/count';
+  const url = 'https://innovdemocracy.africtivistes.com/api/count';
 
   $.ajax(url,   // request url
     {
