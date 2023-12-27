@@ -7,7 +7,7 @@ description: >
   aux citoyens l’obtention de réponses instantanées sur leurs droits grâce à un
   chatbot, alimenté par l’Intelligence Artificielle.
 image: /images/citoyensn.png
-name: ""
+name: "CitoyenSN 🇸🇳"
 facebook: ""
 site: SankoréLabs.com
 linkedIn: https://www.linkedin.com/in/cheikh-ahmed-tidiane-dieng/
