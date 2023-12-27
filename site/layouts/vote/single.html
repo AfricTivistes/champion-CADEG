@@ -7,7 +7,7 @@
         <div class="site-about-wrapper">
           <div class="site-about-company">
             <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
-            <form id="contact-form" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+            <form id="contact-form" name="vote" method="POST" data-netlify="true" data-netlify-recaptcha="true">
               <div class="row">
                 <div class="col-12">
                   <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p>

@@ -98,7 +98,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
 const ajax = (method, url, data, success, error) => {
   var xhr = new XMLHttpRequest();
-  xhr.open(method, url);
+  xhr.open(method, "/api/submission");
   xhr.setRequestHeader("Accept", "application/json");
   xhr.onreadystatechange = () => {
     if (xhr.readyState !== XMLHttpRequest.DONE) return;
