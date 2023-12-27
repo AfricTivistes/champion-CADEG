@@ -15,7 +15,7 @@ const sendEmail = (data) => {
   client.transmissions
     .send({
       content: {
-        from: "civic-ap@africtivistes.org",
+        from: "innov4democracy@africtivistes.org",
         subject: title,
         html: `<!DOCTYPE html>
 <html
@@ -130,7 +130,7 @@ const sendEmail = (data) => {
             width="140"
             height="56"
             alt="AfricTivistes Civic Action Prize"
-            src="https://prize.africtivistes.org/images/logo.png"
+            src="http://innovdemocracy.africtivistes.com/images/logo.png"
           />
 
           <h1>${title}</h1>
@@ -143,8 +143,8 @@ const sendEmail = (data) => {
             <a href="${link}">${link}</a>
           </p>
           <hr />
-          <a class="social" href="https://prize.africtivistes.org"
-            >prize.africtivistes.org</a
+          <a class="social" href="http://innovdemocracy.africtivistes.com"
+            >innovdemocracy.africtivistes.com</a
           >
           <div style="margin-bottom: 48px;"></div>
           <p style="font-size: 10px;">
