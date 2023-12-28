@@ -1,21 +1,8 @@
-// const creatKey = require("./createKey");
-// const sendEmail = require("./sendEmail");
+const creatKey = require("./createKey");
+const sendEmail = require("./sendEmail");
 
-// exports.handler = async(event, context, callback) => {
-//   const data = JSON.parse(event.body).payload;
-//   await creatKey(data).then(
-//     (result) => {
-//       sendEmail(result);
-//       callback(null, {
-//         statusCode: 200,
-//         headers: {
-//           "Access-Control-Allow-Origin": "*"
-//         },
-//         body: JSON.stringify({message: result})
-//       });});
-// };
+exports.handler = async(event, context, callback) => {
 
-exports.handler = async function (event, context) {
   const body = event.body;
   // Convertissez la chaîne en objet FormData
   const formData = new FormData();
@@ -25,13 +12,41 @@ exports.handler = async function (event, context) {
     formData.append(pair[0], pair[1]);
   }
 
-  const formValues = {};
+  const data = {};
   formData.forEach((value, key) => {
-    formValues[key] = value;
+    data[key] = value;
   });
 
-  return {
-    statusCode: 200,
-    body: JSON.stringify({ message: formValues })
-  };
+  // const data = JSON.parse(event.body).payload;
+  await creatKey(data).then(
+    (result) => {
+      sendEmail(result);
+      callback(null, {
+        statusCode: 200,
+        headers: {
+          "Access-Control-Allow-Origin": "*"
+        },
+        body: JSON.stringify({message: result})
+      });});
 };
+
+// exports.handler = async function (event, context) {
+//   const body = event.body;
+//   // Convertissez la chaîne en objet FormData
+//   const formData = new FormData();
+//   const params = new URLSearchParams(body);
+
+//   for (const pair of params.entries()) {
+//     formData.append(pair[0], pair[1]);
+//   }
+
+//   const formValues = {};
+//   formData.forEach((value, key) => {
+//     formValues[key] = value;
+//   });
+
+//   return {
+//     statusCode: 200,
+//     body: JSON.stringify({ message: formValues })
+//   };
+// };
