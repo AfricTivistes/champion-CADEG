@@ -29,24 +29,3 @@ exports.handler = async(event, context, callback) => {
         body: JSON.stringify({message: result})
       });});
 };
-
-// exports.handler = async function (event, context) {
-//   const body = event.body;
-//   // Convertissez la chaîne en objet FormData
-//   const formData = new FormData();
-//   const params = new URLSearchParams(body);
-
-//   for (const pair of params.entries()) {
-//     formData.append(pair[0], pair[1]);
-//   }
-
-//   const formValues = {};
-//   formData.forEach((value, key) => {
-//     formValues[key] = value;
-//   });
-
-//   return {
-//     statusCode: 200,
-//     body: JSON.stringify({ message: formValues })
-//   };
-// };
