@@ -85,7 +85,13 @@ window.addEventListener("DOMContentLoaded", () => {
   form.addEventListener("submit", (ev) => {
     if (validate()) {
       ev.preventDefault();
-      var data = new FormData(form);
+      const formData = new FormData(form);
+
+      const data = new URLSearchParams();
+      for (const pair of formData) {
+        data.append(pair[0], pair[1]);
+      }
+
       ajax(form.method, form.action, data, success, error);
     } else {
       ev.preventDefault();
@@ -99,7 +105,7 @@ window.addEventListener("DOMContentLoaded", () => {
 const ajax = (method, url, data, success, error) => {
   var xhr = new XMLHttpRequest();
   xhr.open(method, "/api/submission");
-  xhr.setRequestHeader("Accept", "application/json");
+  xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
   xhr.onreadystatechange = () => {
     if (xhr.readyState !== XMLHttpRequest.DONE) return;
     if (xhr.status === 200) {
@@ -108,7 +114,7 @@ const ajax = (method, url, data, success, error) => {
       error(xhr.status, xhr.response, xhr.responseType);
     }
   };
-  xhr.send(data);
+  xhr.send(data.toString());
 };
 
 // const handleSubmit = (e) => {
