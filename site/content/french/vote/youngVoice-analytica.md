@@ -14,7 +14,7 @@ description: >
 
 
   Au-delà de l'engagement, YoungVoice Analytica investit dans l'éducation. Des modules éducatifs numériques novateurs élèvent la compréhension des jeunes sur les processus démocratiques, les armant ainsi pour une participation plus informée.
-name: Muazu Alhaji Modu
+name: "YoungVoice Analytica 🇸🇳"
 facebook: https://www.facebook.com/muazul1
 instagram: https://www.instagram.com/Muazu_little4
 title: "AgriConnect "

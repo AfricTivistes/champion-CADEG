@@ -13,7 +13,7 @@ description: >
 
   Jamjumbe App est subdivisée  en 3 parties pour répondre aux différentes exigences fonctionnelles, ainsi qu’au besoin des communauté tout en ayant en tête les différents défis auxquels l'Afrique fait face en termes de taux de pénétration d'internet. 
 image: /images/logo-carré_jambojumbe.png
-name: ""
+name: "Jambo-Jumbe App 🇨🇩"
 facebook: https://www.facebook.com/providence.baraka
 linkedIn: https://www.linkedin.com/in/providence-baraka-904b31122/
 twitter: https://twitter.com/ProvidenceBara3

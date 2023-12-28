@@ -6,7 +6,7 @@ description: >
   citoyens de la commune de Ratoma (République de Guinée), l’accès aux
   informations publiques liées à la gestion de leur commune à travers la
   centralisation des données pour favoriser la transparence.
-name: ""
+name: "RatomaTech 🇬🇳"
 facebook: https://www.facebook.com/mamadouhady.balde.56
 instagram: https://www.instagram.com/carellelaetitia
 title: Espace Citoyens

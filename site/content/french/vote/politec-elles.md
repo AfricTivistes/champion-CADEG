@@ -10,7 +10,7 @@ description: >-
 
   L'interface aura différentes sections pour couvrir des aspects de la vie publique tels que pour pouvoir assister efficacement leur cible:  l'éducation, la gouvernance, l'analyse politique, le Mentorat et le Partenariat. 
 image: /images/politc’elles-logo.png
-name: ""
+name: "Politc’Elles 🇧🇯"
 facebook: https://www.facebook.com/profile.php?id=100078752719638
 site: www.actumag.net
 instagram: https://www.instagram.com/NissaPad

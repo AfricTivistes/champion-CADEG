@@ -10,7 +10,7 @@ description: >
 
 
   Cette plateforme veut favoriser la transparence, renforcer la démocratie locale et créer une collaboration constructive entre les gouvernements municipaux et les citoyens engagés.
-name: ""
+name: "Toonabox 🇹🇬"
 facebook: ""
 instagram: https://www.instagram.com/@activistndasadu
 title: Toonabox
