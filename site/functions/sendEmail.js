@@ -5,7 +5,8 @@ const client = new SparkPost(SPARKPOST);
 
 const sendEmail = (data) => {
   const {key, langue, email} = data;
-  const title = {en: "Confirm your choice!", fr: "Confirmez votre choix !"}[langue];
+  const title = {
+    en: "Confirm your choice!", fr: "[innov4democracy] Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
     fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
@@ -15,7 +16,7 @@ const sendEmail = (data) => {
   client.transmissions
     .send({
       content: {
-        from: "innov4democracy@mail.africtivistes.org",
+        from: "innov4democracy@mail.africtivistes.com",
         subject: title,
         html: `<!DOCTYPE html>
 <html
@@ -34,7 +35,7 @@ const sendEmail = (data) => {
     <meta name="x-apple-disable-message-reformatting" />
     <meta name="color-scheme" content="light dark" />
     <meta name="supported-color-schemes" content="light dark" />
-    <title>AfricTivistes Civic Action Prize</title>
+    <title>Hackathon: «Innover pour la démocratie et la bonne gouvernance en Afrique » #Innov4Democracy #AfricTivistes</title>
     <!--[if mso]>
       <noscript>
         <xml>
@@ -79,7 +80,7 @@ const sendEmail = (data) => {
 
       a,
       a:visited {
-        color: #1273e6;
+        color: #4f1f37;
       }
 
       .logo {
@@ -92,8 +93,8 @@ const sendEmail = (data) => {
         color: #626f7a;
       }
       a.btn-primary {
-        background: #f4a222;
-        color: #fff;
+        background: #f8d761;
+        color: #4f1f37;
         border-radius: 40px;
         padding: 15px 40px !important;
         border: none;
@@ -129,7 +130,7 @@ const sendEmail = (data) => {
             class="logo"
             width="140"
             height="56"
-            alt="AfricTivistes Civic Action Prize"
+            alt="Hackathon #Innov4Democracy #AfricTivistes"
             src="https://innovdemocracy.africtivistes.com/images/logo.png"
           />
 
