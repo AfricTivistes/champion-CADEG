@@ -4,7 +4,7 @@ subtitle: "Ci-dessous la liste des préfinalistes de #Innov4Democracy"
 testimonial_item :
   - thumb : "/images/citoyensn.png"
     name  : "Citoyen SN"
-    id    : c6
+    id    : c1
     company_position: "ChatSN 🇸🇳"
     url: vote/chat-sn
     quote : > 
@@ -17,7 +17,7 @@ testimonial_item :
 
   - thumb : "/images/logo1.png"
     name  : "Clic Citoyen"
-    id    : c1
+    id    : c2
     company_position: "Clic Citoyen 🇧🇯"
     url: vote/clic-citoyen
     quote : > 
@@ -32,7 +32,7 @@ testimonial_item :
 
   - thumb : "/images/img-20231220-wa0041.jpg"
     name  : "FasoBiga"
-    id    : c10
+    id    : c3
     company_position: "FasoBiga 🇧🇫"
     url: vote/faso-biga
     quote : > 
@@ -44,7 +44,7 @@ testimonial_item :
 
   - thumb : "/images/logo-isika.png"
     name  : "Isika"
-    id    : c2
+    id    : c4
     company_position: "Isika 🇲🇬"
     url: vote/isika
     quote : > 
@@ -58,7 +58,7 @@ testimonial_item :
 
   - thumb : "/images/nirou_logo.png"
     name  : "Nidoroualmewaafe"
-    id    : c5
+    id    : c6
     company_position: "Nidoroualmewaafe 🇹🇩"
     url: vote/nidoroualmewaafe
     quote : > 
@@ -70,7 +70,7 @@ testimonial_item :
   
   - thumb : "/images/logo-ratoma.jpg"
     name  : RatomaTech"
-    id    : c5
+    id    : c8
     company_position: "RatomaTech 🇬🇳"
     url: vote/ratoma-tech
     quote : > 
@@ -81,7 +81,7 @@ testimonial_item :
     
   - thumb : "/images/politc’elles-logo.png"
     name  : "Politc’Elles"
-    id    : c5
+    id    : c7
     company_position: "Politc’Elles 🇧🇯"
     url: vote/politec-elles
     quote : > 
@@ -91,7 +91,7 @@ testimonial_item :
 
   - thumb : "/images/logo_toonabox.png"
     name  : "Toonabox"
-    id    : c5
+    id    : c9
     company_position: "Toonabox 🇹🇬"
     url: vote/toonabox
     quote : > 
@@ -103,7 +103,7 @@ testimonial_item :
 
   - thumb : "/images/logo_youngvoice-analytica.png"
     name  : "YoungVoice Analytica"
-    id    : c5
+    id    : c10
     company_position: "YoungVoice Analytica 🇸🇳"
     url: vote/youngVoice-analytica
     quote : > 
