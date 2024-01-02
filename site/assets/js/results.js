@@ -9,7 +9,7 @@ $(document).ready(function () {
         for (let i = 0; i < data.length; i++) {
           // change style
           $(`#${data[i].id} .progression-bar-inner-progress`).css('width', `${data[i].count}%`); //height: 5px;background-color: #f4a222
-          $(`#${data[i].id} .progression-bar-val`).html(`${data[i].count}%`);
+          $(`#${data[i].id} .progression-bar-val`).html(`${data[i].count}`);
         }
     }
   });
