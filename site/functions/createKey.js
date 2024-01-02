@@ -7,7 +7,7 @@ const creatKey = async(data) => {
 
   const {email, name, link, langue} = data;
   const user = {email: email, name:name, link:link, langue:langue};
-  const token = jwt.sign(user, JWT_SECRET, {expiresIn: "1h"});
+  const token = jwt.sign(user, JWT_SECRET, {expiresIn: "15m"});
 
   return new Promise((resolve) => {
 
