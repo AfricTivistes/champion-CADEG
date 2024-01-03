@@ -2,6 +2,8 @@
 title: VivAfrik
 date: 2024-01-02T15:04:36.658Z
 image: /images/capture-d’écran-2024-01-02-à-15.05.00.png
+category:
+  - Medias
 feature_image: /images/capture-d’écran-2024-01-02-à-15.05.00.png
 author: Abdou Aziz Cissé
 ---
