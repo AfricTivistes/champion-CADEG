@@ -12,7 +12,7 @@ description: >
   Cette App se veut être un outil de transformation sociale fournissant des informations favorisant la participation des communautés locales aux questions relatives à la gouvernance dans l’Est de la République Démocratique du Congo (RDC).
 
 
-  Jamjumbe App est subdivisée  en trois parties pour répondre aux différentes exigences fonctionnelles, ainsi qu’au besoin des communauté tout en ayant en tête les différents défis auxquels l'Afrique fait face en termes de taux de pénétration d'internet. 
+  Jamjumbe App est subdivisée  en trois parties pour répondre aux différentes exigences fonctionnelles, ainsi qu’au besoin des communautés tout en ayant en tête les différents défis auxquels l'Afrique fait face en termes de taux de pénétration d'internet. 
 image: /images/logo-carré_jambojumbe.png
 name: Jambo-Jumbe App 🇨🇩
 facebook: https://www.facebook.com/providence.baraka
