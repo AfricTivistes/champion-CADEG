@@ -52,8 +52,8 @@ subtitle  = ""
         name = "Actualités"
         url  = "newsroom"
     [[footer.sitemap.link]]
-        name = "Nominer quelqu'un"
-        url  = "nominated"
+        name = "Champions"
+        url  = "vote"
     # Footer Social Media
     [footer.social]
     title   = "Social Media"
