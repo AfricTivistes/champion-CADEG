@@ -11,6 +11,9 @@ description: >
 
 
   Cette initiative vise d’abord à vulgariser la possibilité offerte aux citoyens d’atteindre sans frais, certaines institutions en ligne. Ensuite, elle va faciliter l’accès à ces institutions en ce qu’elle rassemble en un seul lieu les informations éparses sur les institutions accessibles en ligne.
+
+
+  Pour en savoir plus sur cette initiative: https://www.cliccitoyen.com 
 image: /images/logo1.png
 name: Clic Citoyen 🇧🇯
 facebook: https://www.facebook.com/profile.php?id=100068192543313
