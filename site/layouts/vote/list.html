@@ -10,6 +10,130 @@
         </p>
         <div id="vote-form">
           <h2>{{i18n "merci"}}</h2>
+          <p>Aidez-nous à toucher plus de personnes en partageant sur vos réseaux sociaux.</p>
+          <style>
+            .share-icons {
+              flex-wrap: wrap;
+              justify-content: center;
+              margin-top: 20px;
+            }
+
+            .share-icons.show {
+              display: flex;
+            }
+
+            .share-icons button {
+              display: inline-block;
+              width: 40px;
+              height: 40px;
+              text-align: center;
+              padding: 0;
+              margin: 5px;
+              border-radius: 50%;
+              background-color: #f8d761;
+              border: none;
+              cursor: pointer;
+              font-size: 20px;
+              line-height: 40px;
+              color: #4f1f37;
+            }
+
+            .share-icons button i {
+              color: #4f1f37;
+            }
+            </style>
+
+            <!-- <button id="share-button" class="share-button" onclick="toggleShareDropdown()">
+              Share
+            </button> -->
+
+            <div class="share-icons" id="share-icons">
+              <button onclick="shareOnFacebook()"><i class="fab fa-facebook-f"></i></button>
+              <button onclick="shareOnTwitter()"><i class="fab fa-twitter"></i></button>
+              <button onclick="shareOnPinterest()"><i class="fab fa-pinterest"></i></button>
+              <button onclick="shareOnLinkedIn()"><i class="fab fa-linkedin-in"></i></button>
+              <button onclick="shareOnFlipboard()"><i class="fab fa-flipboard"></i></button>
+              <button onclick="shareOnTelegram()"><i class="fab fa-telegram-plane"></i></button>
+              <button onclick="shareOnWhatsApp()"><i class="fab fa-whatsapp"></i></button>
+              <button onclick="shareOnReddit()"><i class="fab fa-reddit"></i></button>
+              <button onclick="shareViaEmail()"><i class="fas fa-envelope"></i></button>
+              <button onclick="shareNative()"><i class="fas fa-share-alt"></i></button>
+            </div>
+
+            <script>
+            // function toggleShareDropdown() {
+            //   var shareIcons = document.getElementById('share-icons');
+            //   shareIcons.classList.toggle('show');
+            // }
+
+            function shareOnFacebook() {
+              var sharedURL = location.href;
+              var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(sharedURL);
+              window.open(facebookShareURL, '_blank');
+            }
+
+            function shareOnTwitter() {
+              var sharedURL = location.href;
+              var twitterShareURL = 'https://twitter.com/intent/tweet?url=' + encodeURIComponent(sharedURL);
+              window.open(twitterShareURL, '_blank');
+            }
+
+            function shareOnPinterest() {
+              var sharedURL = location.href;
+              var pinterestShareURL = 'https://www.pinterest.com/pin/create/button/?url=' + encodeURIComponent(sharedURL);
+              window.open(pinterestShareURL, '_blank');
+            }
+
+            function shareOnLinkedIn() {
+              var sharedURL = location.href;
+              var linkedInShareURL = 'https://www.linkedin.com/sharing/share-offsite/?url=' + encodeURIComponent(sharedURL);
+              window.open(linkedInShareURL, '_blank');
+            }
+
+            function shareOnFlipboard() {
+              var sharedURL = location.href;
+              var flipboardShareURL = 'https://share.flipboard.com/bookmarklet/popout?v=2&title=&url=' + encodeURIComponent(sharedURL);
+              window.open(flipboardShareURL, '_blank');
+            }
+
+            function shareOnTelegram() {
+              var sharedURL = location.href;
+              var telegramShareURL = 'https://telegram.me/share/url?url=' + encodeURIComponent(sharedURL);
+              window.open(telegramShareURL, '_blank');
+            }
+
+            function shareOnWhatsApp() {
+              var sharedURL = location.href;
+              var whatsAppShareURL = 'whatsapp://send?text=' + encodeURIComponent(sharedURL);
+              window.open(whatsAppShareURL, '_blank');
+            }
+
+            function shareOnReddit() {
+              var sharedURL = location.href;
+              var redditShareURL = 'https://www.reddit.com/submit?url=' + encodeURIComponent(sharedURL);
+              window.open(redditShareURL, '_blank');
+            }
+
+            function shareViaEmail() {
+              var sharedURL = location.href;
+              var emailSubject = 'Check out this link';
+              var emailBody = 'I found this interesting link and thought you might like it: ' + sharedURL;
+              var mailToLink = 'mailto:?subject=' + encodeURIComponent(emailSubject) + '&body=' + encodeURIComponent(emailBody);
+              window.location.href = mailToLink;
+            }
+
+            function shareNative() {
+              if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                // Mobile device, trigger native sharing
+                var sharedURL = location.href;
+                navigator.share({ url: sharedURL })
+                  .then(() => console.log('Shared successfully.'))
+                  .catch((error) => console.log('Error sharing:', error));
+              } else {
+                console.log('Native sharing not supported on this device.');
+              }
+            }
+            </script>
         </div>
       </div>
     </div>
