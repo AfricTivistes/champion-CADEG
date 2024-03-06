@@ -1,10 +1,10 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ with $data.testimonial }}
+{{ with $data.candidat }}
   {{ if .enable }}
   <section class="site-testimonial">
     <div class="container">
       <div class="row">
-        {{ range .testimonial_item }}
+        {{ range .candidat_item }}
         <div class="col-lg-4 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
