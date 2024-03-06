@@ -2,10 +2,10 @@
 title: "Révolution Numérique pour la Démocratie : AfricTivistes offre 25 000€
   pour les Innovateurs d’Afrique!"
 date: 2023-12-22T16:34:10.399Z
-image: /images/25.jpg
+image: /images/26.jpg
 category:
   - Communiqué
-feature_image: /images/25.jpg
+feature_image: /images/26.jpg
 author: Abdou Aziz Cisse
 ---
 *Rejoignez la compétition panafricaine d’innovation numérique qui récompense les innovateurs ayant mis leurs talents au service de la démocratie. AfricTivistes dans le cadre du Charter Project Africa, lance un défi aux jeunes talents : concevez des solutions digitales pour renforcer la démocratie et la bonne gouvernance. Montrez votre expertise, que vous soyez développeur, graphiste, designer ou simple passionné. Les meilleures innovations seront récompensées lors d’un événement majeur du 10 au 13 janvier 2024 à Cotonou.*

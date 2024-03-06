@@ -1,10 +1,10 @@
 ---
 title: "Hackathon #Innov4Democracy: découvrez les 10 innovations préselectionnées  "
 date: 2023-12-22T16:09:51.792Z
-image: /images/innov4democracy.jpeg
+image: /images/26.jpg
 category:
   - Communiqué
-feature_image: /images/innov4democracy.jpeg
+feature_image: /images/26.jpg
 author: Abdou Aziz Cissé
 ---
 ***Sur vingt-six (26) solutions innovantes provenant de toutes les régions d’Afrique, dix (10) d’entre elles ont retenu l’attention du comité de présélection de la compétition panafricaine d’innovation numérique pour la promotion de la démocratie.***
