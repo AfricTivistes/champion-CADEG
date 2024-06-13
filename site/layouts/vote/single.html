@@ -10,15 +10,15 @@
             <form id="contact-form" name="vote" method="POST" data-netlify="true" data-netlify-recaptcha="true">
               <div class="row">
                 <div class="col-12">
-                  <p>Le vote est clôturé, merci de votre participation</p>
-                  <!-- <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p> -->
-                  <!-- <ol>
+                  
+                  <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p>
+                  <ol>
                     <li>{{ i18n "vote2" }}</li>
                     <li>{{ i18n "vote3" }}</li>
                     <li>{{ i18n "vote4" }}</li>
-                  </ol> -->
+                  </ol>
                 </div>
-                <!-- <div class="col-12">
+                <div class="col-12">
                   <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
                 </div>
                 <div class="col-12">
@@ -36,7 +36,7 @@
                       </span>
                     </span>
                   </button>
-                </div>-->
+                </div>
               </div>
             </form>
             <div id="vote-form">

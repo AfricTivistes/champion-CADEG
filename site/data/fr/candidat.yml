@@ -1,6 +1,6 @@
 enable  : true
 title   : "Champion CADEG ! "
-subtitle: "Le projet de plateforme pour le Champion CADEG vise à renforcer la démocratie en Afrique en reconnaissant et célébrant les défenseurs des principes de la Charte Africaine de la Démocratie, des Élections et de la Gouvernance. Cette plateforme offre une opportunité unique d'engager le public dans la promotion des valeurs démocratiques."
+subtitle: "Le Champion AfricTivistes de la gouvernance et de la gouvernance est une distinction à une entité politique (une personnalité ou une institution) qui respecte au mieux les principes de la Charte Africaine de la Démocratie des Elections et de la Gouvernance durant l’exercice du pouvoir. Il s’agit d’un acteur public ayant un impact substantiel dans les processus de démocratisation et de bonne gouvernance dans son pays."
 candidat_item :
   - thumb : "/images/vote/Thuli-Madonsela.jpg"
     name  : "Thuli Madonsela"
@@ -8,7 +8,7 @@ candidat_item :
     company_position: "🇿🇦"
     url: vote/thuli-madonsela
     quote : > 
-            Thuli Madonsela se démarque par son travail, sa posture exemplaire et sa capacité d'influence. Ses efforts en faveur du respect des droits de l'Homme sont également à souligner. Le 19 octobre 2009, elle a été nommée médiatrice de la République par le président Jacob Zuma pour un mandat de sept ans non renouvelable...
+            Thuli Madonsela est une avocate et femme politique sud-africaine ayant participé à la rédaction de la Constitution dans les années 1990. Le 19 octobre 2009, elle est nommée médiatrice de la République (Protecteur du peuple) par le président Jacob Zuma (président du 9 mai 2009 au 14 février 2018) pour un mandat de...
     facebook: ""
     linkedIn: ""
     twitter: ""
@@ -19,28 +19,40 @@ candidat_item :
     company_position: "🇰🇪"
     url: vote/cour-supreme
     quote : > 
-            La Cour Suprême du Kenya, représentée par le juge David Maraga, a réussi à élaborer une Constitution révolutionnaire d'inspiration "endogène" malgré la crise postélectorale majeure que le pays a connue. À la différence d'autres pays, les membres de la Cour suprême kényane ne sont pas élus mais nommés. Elle...
+            La Cour Suprême du Kenya a réussi à élaborer une Constitution révolutionnaire d'inspiration "endogène" malgré la crise post-électorale majeure que le pays a connue. À la différence d'autres pays, les membres de la Cour suprême kényane ne sont pas..
     facebook: ""
     linkedIn: ""
     twitter: ""
 
-  - thumb : "/images/vote/ghana.jpg"
-    name  : "Le Parlement du Ghana"
+  - thumb : "/images/vote/gambia.jpg"
+    name  : "La Commission vérité, réconciliation et réparation"
     id    : c3
-    company_position: "🇬🇭"
-    url: vote/parlement-ghana
+    company_position: "🇬🇲"
+    url: vote/commission-gambie
     quote : > 
-            Le Parlement du Ghana se distingue par son historique d'élections inclusives, transparentes et pacifiques, maintenu depuis plus de vingt ans grâce à la présence de la Commission électorale depuis 1993. Une caractéristique marquante est la sacralité accordée à la limitation des mandats. Dans le cadre...
+            La Commission vérité, réconciliation et réparation (20 juillet 2017-15 octobre 2018) mise en place en décembre 2017 avait pour objectif principal d’établir un bilan historique impartial des violations des droits humains commises...
     facebook: ""
     instagram: ""
 
   - thumb : "/images/vote/gambia.jpg"
-    name  : "La Commission vérité, réconciliation et réparation"
+    name  : "Le Président Hage Geingob"
     id    : c4
-    company_position: "🇬🇲"
-    url: vote/commision
+    company_position: "🇳🇦"
+    url: vote/cccccc
     quote : > 
-            La Commission vérité, réconciliation et réparation est reconnue pour ses efforts significatifs de démocratisation depuis le départ de Yaya Jammeh. Les démarches judiciaires engagées contre son régime et l'adoption de la loi sur l'accès à l'information ont également contribué à cet intérêt. Les actions entreprises...
+            Le Président Hage Geingob, né en 1941, a exercé un leadership remarquable en faveur de la démocratie et de la transparence en Namibie, ainsi que dans la gouvernance continentale. Durant sa présidence, il a pris des mesures importantes pour renforcer les institutions démocratiques et promouvoir...
+    facebook: ""
+    site: ""
+    linkedIn: ""
+    twitter: ""
+
+  - thumb : "/images/vote/kenya.jpeg"
+    name  : "Irene Chirwa Mambilima"
+    id    : c5
+    company_position: "🇿🇲"
+    url: vote/cccccc
+    quote : > 
+            Irene Chirwa Mambilima, née en 1952, ancienne présidente de la Cour suprême, est notamment reconnue pour son rôle dans le maintien de l'indépendance et de l'intégrité du système judiciaire zambien, tout en promouvant...
     facebook: ""
     site: ""
     linkedIn: ""

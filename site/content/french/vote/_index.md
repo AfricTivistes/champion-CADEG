@@ -1,6 +1,6 @@
 ---
 title       : "Champion CADEG !"
 date        : 2021-08-28T15:58:01+06:00
-description : "Le projet de plateforme pour le Champion CADEG vise à renforcer la démocratie en Afrique en reconnaissant et célébrant les défenseurs des principes de la Charte Africaine de la Démocratie, des Élections et de la Gouvernance. Cette plateforme offre une opportunité unique d'engager le public dans la promotion des valeurs démocratiques."
+description : "Le Champion AfricTivistes de la gouvernance et de la gouvernance est une distinction à une entité politique (une personnalité ou une institution) qui respecte au mieux les principes de la Charte Africaine de la Démocratie des Elections et de la Gouvernance durant l’exercice du pouvoir. Il s’agit d’un acteur public ayant un impact substantiel dans les processus de démocratisation et de bonne gouvernance dans son pays."
 ---
 
