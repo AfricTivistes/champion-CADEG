@@ -6,7 +6,7 @@ const client = new SparkPost(SPARKPOST);
 const sendEmail = (data) => {
   const {key, langue, email} = data;
   const title = {
-    en: "Confirm your choice!", fr: "[innov4democracy] Confirmez votre choix !"}[langue];
+    en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la gouvernance] Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
     fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
@@ -35,7 +35,7 @@ const sendEmail = (data) => {
     <meta name="x-apple-disable-message-reformatting" />
     <meta name="color-scheme" content="light dark" />
     <meta name="supported-color-schemes" content="light dark" />
-    <title>Hackathon: «Innover pour la démocratie et la bonne gouvernance en Afrique » #Innov4Democracy #AfricTivistes</title>
+    <title>Le Champion AfricTivistes de la gouvernance et de la gouvernance #AfricTivistes</title>
     <!--[if mso]>
       <noscript>
         <xml>
@@ -130,8 +130,8 @@ const sendEmail = (data) => {
             class="logo"
             width="140"
             height="56"
-            alt="Hackathon #Innov4Democracy #AfricTivistes"
-            src="https://innovdemocracy.africtivistes.com/images/logo.png"
+            alt="#AfricTivistes"
+            src="https://mooc.africtivistes.org/web/image/6222-44b2567e/logo-blanc%20africtivistes__1_-modified.png"
           />
 
           <h1>${title}</h1>
@@ -144,12 +144,12 @@ const sendEmail = (data) => {
             <a href="${link}">${link}</a>
           </p>
           <hr />
-          <a class="social" href="https://innovdemocracy.africtivistes.com"
-            >innovdemocracy.africtivistes.com</a
+          <a class="social" href="https://democracychampion.net/"
+            >democracychampion.net</a
           >
           <div style="margin-bottom: 48px;"></div>
           <p style="font-size: 10px;">
-            africtivistes.org © 2021 All Rights Reserved
+            africtivistes.org © 2024 All Rights Reserved
           </p>
         </div>
         <!--[if true]>
