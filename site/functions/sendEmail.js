@@ -16,7 +16,7 @@ const sendEmail = (data) => {
   client.transmissions
     .send({
       content: {
-        from: "innov4democracy@mail.africtivistes.com",
+        from: "democracychampion@mail.africtivistes.com",
         subject: title,
         html: `<!DOCTYPE html>
 <html
