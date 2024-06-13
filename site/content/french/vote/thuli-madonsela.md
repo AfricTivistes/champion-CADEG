@@ -17,7 +17,7 @@ description: >
   Elle a été choisie par les membres du jury pour avoir incarnée l’institutionnalisation de la bonne Gouvernance. L’article 32 de la CADEG stipule que “Les Etats parties prennent les mesures nécessaires en vue d’institutionnaliser la bonne gouvernance politique”. Tandis que l’Article 13 de la CADEG stipule que “Les Etats parties prennent les mesures pour établir et maintenir un dialogue politique et social, ainsi que la transparence et la confiance entre les dirigeants politiques et les populations en vue de consolider la démocratie et la paix.”
   Elle incarne désormais l'intégrité, le courage, l’esprit républicain et la lutte contre la corruption. 
 
-image: /images/vote/Thuli-Madonsela.jpg
+image: /images/vote/ThuliMadonsela.png
 name: 
 facebook: ""
 linkedIn: ""

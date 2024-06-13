@@ -12,7 +12,7 @@ description: >
   Elle était une figure éminente dans le domaine de la démocratie et de la gouvernance en Zambie. Elle a occupé plusieurs postes de responsabilité au sein du système judiciaire zambien, contribuant ainsi à renforcer l'État de droit et la gouvernance démocratique dans le pays.
 
 
-image: "/images/vote/gambia.jpg"
+image: "/images/vote/comiephoto.png"
 name: 
 facebook: ""
 site: 

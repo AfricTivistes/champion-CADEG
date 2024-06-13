@@ -22,7 +22,7 @@ description: >
   Des Élections libres et transparentes stipulé par l’Article 17 : “Les Etats parties réaffirment leur engagement à tenir régulièrement des élections transparentes,libres et justes conformément à la Déclaration de l’Union sur les principes régissant les élections démocratiques en Afrique”.
 
 
-image: "/images/vote/gambia.jpg"
+image: "/images/vote/BobHeingob.png"
 name: 
 facebook: ""
 site: 
