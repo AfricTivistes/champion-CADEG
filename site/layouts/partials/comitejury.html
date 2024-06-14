@@ -13,10 +13,14 @@
         <div class="col-lg-4 col-md-10 mx-auto">
           <div class="site-project-item">
             <div class="site-project-item-thumb">
+              <a href="{{ .Permalink }}">
                 <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+              </a>
               <div class="site-blog-post-content">
                 <span>{{ delimit .Params.category ", " }}</span>
-                <h5>{{ .Title }}</h5>
+                <a href="{{ .Permalink }}">
+                  <h5>{{ .Params.Name }} - {{ .Title }}</h5>
+                </a>
                 <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
               </div>
             </div>

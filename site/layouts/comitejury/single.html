@@ -5,14 +5,27 @@
     <div class="row justify-content-center">
       <div class="col-lg-8">
         <article class="site-blog-details">
-          <p><span>{{ .PublishDate.Format "January 2, 2006" }}</span> by <span>{{ .Params.author }}</span></p>
-          <h2 class="blog-title">{{ .Title }}</h2>
+          <!--<p><span>{{ .PublishDate.Format "January 2, 2006" }}</span></p>-->
+          <h2 class="blog-title">{{ .Title }} </h2>
+            <div class="text-center">
           <img class="feature-image" src="{{ .Params.feature_image | absURL }}" alt="blog-feature-image">
+          </div>
           {{ .Content }}
         </article>
       </div>
     </div>
   </div>
+  <ul class="site-cta-buttons text-center">
+            <li>
+              <a href="{{ i18n "baseurl" | urlize }}" class="btn btn-primary">
+                <span class="btn-area">
+                  <span data-text="Retour a l'accueil">
+                    Retour a l'accueil
+                  </span>
+                </span>
+              </a>
+            </li>
+          </ul>
 </section>
 
 <!-- {{ partial "call-to-action.html" . }} -->
