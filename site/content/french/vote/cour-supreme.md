@@ -17,7 +17,7 @@ description: >
   La Cour Suprême sous David Maraga (2016-2021) a été choisie par les membres du jury en raison de l’application du chapitre Institutions démocratiques de la CADEG. L’article 15 de la CADEG qui stipule : “Les Etats parties veillent à ce que la Constitution garantisse l’indépendance ou l’autonomie desdites institutions”.
 
 
-image: "/images/vote/kenya.jpeg"
+image: "/images/vote/DavidMaraga.png"
 name: 
 facebook: ""
 site: 

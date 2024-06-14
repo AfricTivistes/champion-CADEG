@@ -1,9 +1,9 @@
 enable  : true
-title   : Comité de sélection / Jury final 
+title   : Comités de sélection / Jury final 
 members  :
-  - image       : images/team/aya.jpg
-    name        : Aya Chebbi
-    designation : Activiste et Envoyée Spéciale de l’Union Africaine pour les Jeunes - Tunisie
+  - image       : images/team/Marie-Josiane.jpg
+    name        : Présidente Marie Josiane Ngah
+    designation : Présidente Marie Josiane Ngah, Adjoint et coordinateur francophone de WADEMOS,
     facebook    : http://facebook.com/
     twitter     : https://twitter.com/
     medium      : https://www.medium.com/
@@ -11,71 +11,50 @@ members  :
     instagram   : https://www.instagram.com/
 
   - image       : images/team/boniface.jpg
-    name        : Boniface Mwengui
-    designation : Photojournaliste, Politicien et Activiste - Kenya
+    name        : Luther Yameogo
+    designation : Luther Yameogo, Chargé principal du Plaidoyer, Division Société civile et engagement communautaire à la BAD,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/ibraheem.jpg
-    name        : Ibraheem Sanusi
-    designation : Conseiller en coopération au développement - Éthiopie
+    name        : Fatou Jagne
+    designation : Fatou Jagne, fondatrice et directrice, Center for Women Rights and Leadership,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/jean.jpg
-    name        : Jean Jacques Lumumba
-    designation : Activiste Anti Corruption, Banquier et lanceur d’alerte - RD Congo
+    name        : Paschal Chem
+    designation : Paschal Chem, Coordonnateur de la Communication au Département des Affaires politiques, Paix et Sécurité de l’UA,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/justin.jpg
-    name        : Justin Arenstein
-    designation : CEO Code4Africa - Afrique du Sud
+    name        : Ibrahima Kane
+    designation : Ibrahima Kane, Responsable du Programme Union africaine, Open Society Foundation,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/papa.jpg
-    name        : Papa Ismaila Dieng
-    designation : AfricTivistes, Journaliste-blogueur, lauréat 2018 Prix Anna Gueye - Sénégal
+    name        : Prof. Ndioro Ndiaye
+    designation : Prof. Ndioro Ndiaye, Présidente de l'Alliance pour la Migration, Leadership et Développement (AMLD), Coordonnatrice du Réseau francophone pour l'Egalite Femme-Homme (RF-EFH),
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/rosebell.jpg
-    name        : Rosebell Kagumire
-    designation : AfricTivistes, Journaliste-blogueur, lauréate 2018 Prix Anna Gueye - Ouganda
+    name        : Latyr Tine
+    designation : Latyr Tine,  Chargé de programme senior, Gorée Institute.
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/salieu.jpg
-    name        : Salieu Taal
-    designation : Bâtonnier de l’Ordre des Avocats de la Gambie, Initiateur de GambiaHasDecided - Gambie
+    name        : Aminata Diallo
+    designation : Aminata Diallo, Consultante en Droit et Protection des Femmes et des Enfants
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
-
-  - image       : images/team/Safwene.jpg
-    name        : Safwene Grira
-    designation : AfricTivistes, Journaliste - Tunisie
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/Nassuna.jpg
-    name        : Rizzan Nassuna
-    designation : Experte en évaluation de la démocratie et en gouvernance, Département des affaires politiques, Commission de l'Union africaine - Ouganda
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com
-
-  - image       : images/team/Alioune.jpg
-    name        : Alioune TINE
-    designation : Fondateur de AfrikaJom - Sénégal
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : htnwjnnmvm

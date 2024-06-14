@@ -2,7 +2,7 @@ enable  : true
 title   : "Champion CADEG ! "
 subtitle: "Le Champion AfricTivistes de la gouvernance et de la gouvernance est une distinction à une entité politique (une personnalité ou une institution) qui respecte au mieux les principes de la Charte Africaine de la Démocratie des Elections et de la Gouvernance durant l’exercice du pouvoir. Il s’agit d’un acteur public ayant un impact substantiel dans les processus de démocratisation et de bonne gouvernance dans son pays."
 candidat_item :
-  - thumb : "/images/vote/Thuli-Madonsela.jpg"
+  - thumb : "/images/vote/ThuliMadonsela.png"
     name  : "Thuli Madonsela"
     id    : c1
     company_position: "🇿🇦"
@@ -13,7 +13,7 @@ candidat_item :
     linkedIn: ""
     twitter: ""
 
-  - thumb : "/images/vote/kenya.jpeg"
+  - thumb : "/images/vote/DavidMaraga.png"
     name  : "La Cour Suprême du Kenya"
     id    : c2
     company_position: "🇰🇪"
@@ -24,7 +24,7 @@ candidat_item :
     linkedIn: ""
     twitter: ""
 
-  - thumb : "/images/vote/gambia.jpg"
+  - thumb : "/images/vote/DrLaminSise.png"
     name  : "La Commission vérité, réconciliation et réparation"
     id    : c3
     company_position: "🇬🇲"
@@ -34,7 +34,7 @@ candidat_item :
     facebook: ""
     instagram: ""
 
-  - thumb : "/images/vote/gambia.jpg"
+  - thumb : "/images/vote/BobHeingob.png"
     name  : "Le Président Hage Geingob"
     id    : c4
     company_position: "🇳🇦"
@@ -46,7 +46,7 @@ candidat_item :
     linkedIn: ""
     twitter: ""
 
-  - thumb : "/images/vote/kenya.jpeg"
+  - thumb : "/images/vote/comiephoto.png"
     name  : "Irene Chirwa Mambilima"
     id    : c5
     company_position: "🇿🇲"
