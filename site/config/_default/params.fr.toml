@@ -1,7 +1,7 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "/images/logocadeg.png"
+background_image      = "/images/cadeg.jpg"
 heading               = ""
 tagline               = ""
 primary_button        = "À propos"
@@ -19,7 +19,7 @@ primary_button_url  = "vote"
 [newsroom]
 enable    = true
 title     = "ACTUALITÉS"
-subtitle  = "Retrouvez toute l'actualité sur le Prix AfricTivistes pour l'Action Civique"
+subtitle  = "Retrouvez toute l'actualité sur le Champion AfricTivistes de la gouvernance et de la démocratie."
 
 [press]
 enable    = true

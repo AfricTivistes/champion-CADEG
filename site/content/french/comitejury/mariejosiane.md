@@ -1,10 +1,10 @@
 ---
-title: "Présidente : Marie Josiane Ngah"
+title: "Marie Josiane Ngah"
 date: 2021-06-19T13:13:00.120Z
-image: /images/team/Marie-Josiane.jpg
+image: /images/team/Marie-Josiane.png
 category:
   - 
-feature_image: /images/team/Marie-Josiane.jpg
+feature_image: /images/team/Marie-Josiane.png
 author: Abdoulaye Guene
 ---
 Marie Josiane est la coordinatrice du projet du Réseau de solidarité démocratique en Afrique de l’Ouest (WADEMOS) pour l’Afrique de l’Ouest francophone.

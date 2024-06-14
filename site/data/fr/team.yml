@@ -1,7 +1,7 @@
 enable  : true
-title   : Comités de sélection / Jury final 
+title   : Comité de sélection / Jury final 
 members  :
-  - image       : images/team/Marie-Josiane.jpg
+  - image       : images/team/Marie-Josiane.png
     name        : Présidente Marie Josiane Ngah
     designation : Présidente Marie Josiane Ngah, Adjoint et coordinateur francophone de WADEMOS,
     facebook    : http://facebook.com/
@@ -10,51 +10,72 @@ members  :
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/boniface.jpg
+  - image       : images/team/boniface.png
     name        : Luther Yameogo
     designation : Luther Yameogo, Chargé principal du Plaidoyer, Division Société civile et engagement communautaire à la BAD,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/ibraheem.jpg
+  - image       : images/team/ibraheem.png
     name        : Fatou Jagne
     designation : Fatou Jagne, fondatrice et directrice, Center for Women Rights and Leadership,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/jean.jpg
+  - image       : images/team/jean.png
     name        : Paschal Chem
     designation : Paschal Chem, Coordonnateur de la Communication au Département des Affaires politiques, Paix et Sécurité de l’UA,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/justin.jpg
+  - image       : images/team/justin.png
     name        : Ibrahima Kane
     designation : Ibrahima Kane, Responsable du Programme Union africaine, Open Society Foundation,
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/papa.jpg
+  - image       : images/team/papa.png
     name        : Prof. Ndioro Ndiaye
     designation : Prof. Ndioro Ndiaye, Présidente de l'Alliance pour la Migration, Leadership et Développement (AMLD), Coordonnatrice du Réseau francophone pour l'Egalite Femme-Homme (RF-EFH),
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/rosebell.jpg
+  - image       : images/team/rosebell.png
     name        : Latyr Tine
     designation : Latyr Tine,  Chargé de programme senior, Gorée Institute.
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/salieu.jpg
+  - image       : images/team/salieu.png
     name        : Aminata Diallo
     designation : Aminata Diallo, Consultante en Droit et Protection des Femmes et des Enfants
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/jimm.png
+    name        : Jimm Chick Fomunjong
+    designation : Jimm Chick Fomunjong, Responsable de la Gestion des Connaissances, WACSI
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/syllasow.png
+    name        : Sylla SOW
+    designation : Sylla SOW, Maître conférence assimilé à la Faculté des Sciences Juridiques et Politiques de l’UCAD
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+    
+  - image       : images/team/selly.png
+    name        : Selly BA
+    designation : Dr Selly BA, Sociologue
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/

@@ -1,10 +1,10 @@
 ---
 title: "Ibrahima Kane"
 date: 2021-05-17T13:13:00.120Z
-image: /images/team/ibrahimakane.jpg
+image: /images/team/ibrahimakane.png
 category:
   - 
-feature_image: /images/team/ibrahimakane.jpg
+feature_image: /images/team/ibrahimakane.jpng
 author: Abdoulaye Guene
 ---
 Ibrahima Kane est conseiller spécial du directeur exécutif de l'Open Society Foundation-Africa en charge du plaidoyer sur l'Union africaine et avocat diplômé au Sénégal et en France. Avant de rejoindre la Open Society Foundation en 2007, il a été juriste senior en charge du programme Afrique à INTERIGHTS pendant 10 ans.
