@@ -23,7 +23,7 @@ description: >
 
 
 image: "/images/vote/BobHeingob.png"
-name: 
+name: "Le Président Hage Geingob"
 facebook: ""
 site: 
 linkedIn: 

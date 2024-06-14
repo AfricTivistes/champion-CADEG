@@ -18,7 +18,7 @@ description: >
 
 
 image: "/images/vote/DavidMaraga.png"
-name: 
+name: "La Cour Suprême du Kenya"
 facebook: ""
 site: 
 linkedIn: 

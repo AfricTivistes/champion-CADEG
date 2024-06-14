@@ -18,7 +18,7 @@ description: >
   Elle incarne désormais l'intégrité, le courage, l’esprit républicain et la lutte contre la corruption. 
 
 image: /images/vote/ThuliMadonsela.png
-name: 
+name: "Thuli Madonsela"
 facebook: ""
 linkedIn: ""
 twitter: ""

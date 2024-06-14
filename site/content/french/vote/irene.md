@@ -13,7 +13,7 @@ description: >
 
 
 image: "/images/vote/comiephoto.png"
-name: 
+name: "Irene Chirwa Mambilima"
 facebook: ""
 site: 
 linkedIn: 

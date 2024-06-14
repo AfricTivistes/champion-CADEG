@@ -19,7 +19,7 @@ description: >
   La Commission Vérité et réconciliation a été choisie par les membres du jury pour l’application du chapitre des Réformes de gouvernance et Etat de droit dont l’article 11 établit que : “Les Etats parties s’engagent à élaborer les cadres législatif et politique nécessaires à l’instauration et au renforcement de la culture, de la démocratie et de la paix”. Tandis que l’article 4-1 stipule que : “Les Etats parties prennent l’engagement de promouvoir la démocratie, le principe de l’Etat de droit et les droits de l’Homme”. 
 
 image: "/images/vote/DrLaminSise.png"
-name: 
+name: "La Commission vérité, réconciliation et réparation"
 facebook: ""
 site: 
 linkedIn: 
