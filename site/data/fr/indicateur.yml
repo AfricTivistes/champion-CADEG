@@ -1,0 +1,9 @@
+enable : true
+title : "#ChampionCADEG: Indicateurs"
+subtitle : "L’identification des nominés s'est faite sur la base des trente huit (38) pays ayant ratifié la charte en s’appuyant sur des indicateurs qui ont permis de mesurer la progression respective de chaque pays ayant ratifié la Charte de gouvernance (CADEG) sur le plan de la mise en application des valeurs et principes de ladite Charte. D'autre part, elle s'est adossée à la documentation fournie et la perception sur une période allant de 2012 à 2023 (rapports, études, guides…), et en privilégiant les données africaines."
+btnText : "En Savoir Plus..."
+image: "/images/championscadeg.png"
+feature_image: "/images/cadeg.jpg"
+countdownYear : 2021
+countdownMonth : 10
+countdownDay  : 22
