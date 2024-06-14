@@ -1,10 +1,10 @@
 ---
 title: "Latyr Tine"
 date: 2021-06-16T13:13:00.120Z
-image: /images/team/latyrtine.jpg
+image: /images/team/latyrtine.png
 category:
   - 
-feature_image: /images/team/latyrtine.jpg
+feature_image: /images/team/latyrtine.png
 author: Abdoulaye Guene
 ---
 
