@@ -24,7 +24,7 @@ description: >
   <br></br>
 
 image: /images/vote/ThuliMadonsela.png
-name: 
+name: "Thuli Madonsela"
 facebook: ""
 linkedIn: ""
 twitter: ""
