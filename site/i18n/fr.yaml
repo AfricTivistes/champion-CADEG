@@ -13,7 +13,7 @@
 - id: morenews
   translation: Lire Plus
 - id: visitagain
-  translation: "Je veux visiter <br> à nouveau"
+  translation: "<br>"
 - id: nom
   translation: "Prénom(s) & Nom"
 - id: nationalite
