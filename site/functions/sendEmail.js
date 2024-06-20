@@ -137,7 +137,7 @@ const sendEmail = (data) => {
           <h1>${title}</h1>
           <p>${text}</p>
           <hr />
-          <p style="text-align: center;">
+          <p style="text-align: justify;">
             <a href="${link}" class="btn-primary">${btn}</a>
           </p>
           <hr />

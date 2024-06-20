@@ -2,26 +2,31 @@
   padding: 85px 0;
   color: $white;
   background:$gree;
+  text-align: justify;
   .section-title{
     margin-bottom: 40px;
+    text-align: justify;
   }
   @include mobile{
     padding: 50px 0;
+    text-align: justify;
   }
   &-item{
     @include desktop{
       margin-bottom: 30px;
-      text-align: center;
+      text-align: justify;
     }
     &-title{
       font-size: 20px;
       font-weight: 300;
+      text-align: justify;
     }
     &-number{
       color: $white;
       font-size: 60px;
       margin-bottom: 0;
       font-weight: 700;
+      text-align: justify;
     }
   }
 }
