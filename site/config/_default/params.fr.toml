@@ -38,7 +38,7 @@ subtitle  = ""
     title   = "Informations de contact"
     address = "AfricTivistes, BP : 19968 (Sénégal)"
     phone   = "(+221) 33 837 51 24"
-    email   = "innov4democracy@africtivistes.org"
+    email   = "info@africtivistes.org"
     # Footer Sitemap
     [footer.sitemap]
     title   = "Sitemap"
@@ -65,5 +65,5 @@ subtitle  = ""
         url  = "https://www.facebook.com/africtivistes/"
     # Footer Service
     [footer.service]
-    title       = "#Innov4Democracy"
-    description = "Reconnaitre les Innovateurs au service de la démocratie !"
+    title       = ""
+    description = ""
