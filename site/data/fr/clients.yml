@@ -1,12 +1,17 @@
 enable        : true
 title         : "Partenaires"
-client_logos  : 
- [
- "images/clients/africtivistes.svg",
- "images/clients/codeforafrica.svg",
- "images/clients/dwf.svg",  
- "images/clients/ecdpm.svg",
- "images/clients/epd.svg",
- "images/clients/goree.svg",
- 
- ]
+client_logos:
+  - image: "images/clients/africtivistes.svg"
+    url: "https://www.africtivistes.org"
+  - image: "images/clients/africtivistes.svg"
+    url: "https://www.africtivistes.org"
+  - image: "images/clients/codeforafrica.svg"
+    url: "https://codeforafrica.org"
+  - image: "images/clients/dwf.svg"
+    url: "https://www.democracyworks.org.za/"
+  - image: "images/clients/ecdpm.svg"
+    url: "https://ecdpm.org"
+  - image: "images/clients/epd.svg"
+    url: "https://www.epd.eu"
+  - image: "images/clients/goree.svg"
+    url: "https://goreeinstitut.org"

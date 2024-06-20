@@ -19,7 +19,7 @@
               <div class="site-blog-post-content">
                 <span>{{ delimit .Params.category ", " }}</span>
                 <a href="{{ .Permalink }}">
-                  <h5>{{ .Params.Name }} - {{ .Title }}</h5>
+                  <h5>{{ .Params.Name }} {{ .Title }}</h5>
                 </a>
                 <a href="{{ .Permalink }}" class="read-more">{{ i18n "readmore" }}</a>
               </div>
