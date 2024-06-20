@@ -1,6 +1,6 @@
 $(document).ready(function () {
   "use strict";
-  const url = 'https://democracychampion.net/api/count';
+  const url = 'https://innovdemocracy.africtivistes.com/api/count';
 
   $.ajax(url,   // request url
     {
@@ -11,7 +11,7 @@ $(document).ready(function () {
           $(`#${data[i].id} .progression-bar-inner-progress`).css('width', `${data[i].count}%`); //height: 5px;background-color: #f4a222
           $(`#${data[i].id} .progression-bar-val`).html(`${data[i].count}`);
         }
-    }
-  });
+      }
+    });
 
 });
