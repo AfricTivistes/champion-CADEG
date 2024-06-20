@@ -6,7 +6,9 @@
   width: 100%;
   z-index: 1000;
   transition: all 0.3s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  text-align: justify;
   @include desktop{
+    text-align: justify;
     background: $secondary-color;
     margin: 10px;
     border-radius: 5px;
@@ -15,9 +17,11 @@
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
   }
   @include mobile{
+    text-align: justify;
     padding: 15px;
   }
   .navbar-brand{
+    text-align: justify;
     padding: 0;
     margin: 0;
     img{
@@ -26,7 +30,7 @@
   }
   .nav-item{
     @include desktop{
-      text-align: center;
+      text-align: justify;
     }
     .nav-link{
       font-family: $secondary-font;
@@ -34,15 +38,18 @@
       transition: all .3s ease;
       padding: 15px 18px;
       position: relative;
+      text-align: justify;
     }
     &:last-child{
       margin-left: 15px;
     }
   }
   .navbar-toggler{
+    text-align: justify;
     outline: 0;
     padding: 0;
     .icon-bar {
+      text-align: justify;
       height: 2px;
       width: 25px;
       transition: all 0.2s;
@@ -54,24 +61,29 @@
       &:nth-child(1){
         transform: rotate(45deg);
         transform-origin: 10% 10%;
+        text-align: justify;
       }
       &:nth-child(2){
         opacity: 0;
 	      filter: alpha(opacity=0);
+        text-align: justify;
       }
       &:nth-child(3){
         transform: rotate(-45deg);
         transform-origin: 10% 90%;
+        text-align: justify;
       }
     }
     &.collapsed{
       .icon-bar{
         &:nth-child(1){
           transform: rotate(0);
+          text-align: justify;
         }
         &:nth-child(2){
           opacity: 1;
           filter: alpha(opacity=1);
+          text-align: justify;
         }
         &:nth-child(3){
           transform: rotate(0);
@@ -80,6 +92,7 @@
     }
   }
   &.nav-bg{
+    text-align: justify;
     padding: 12px 0;
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
     @include mobile{
