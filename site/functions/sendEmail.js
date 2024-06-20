@@ -9,7 +9,7 @@ const sendEmail = (data) => {
     en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la démocratie] Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
-    fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
+    fr: "Veuillez cliquer sur le bouton ci-dessous pour confirmer votre vote."
   }[langue];
   const btn = {en: "Confirm", fr: "Confirmer"}[langue];
   const link = `${BASE_URL}/api/voteverify?key=${key}`;
@@ -139,9 +139,6 @@ const sendEmail = (data) => {
           <hr />
           <p style="text-align: center;">
             <a href="${link}" class="btn-primary">${btn}</a>
-          </p>
-          <p style="word-wrap: break-word;">
-            <a href="${link}">${link}</a>
           </p>
           <hr />
           <a class="social" href="https://democracychampion.net/"
