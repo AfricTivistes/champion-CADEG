@@ -1,7 +1,7 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "/images/cadeg.jpg"
+background_image      = "/images/cadeg.png"
 heading               = ""
 tagline               = ""
 primary_button        = "À propos"
