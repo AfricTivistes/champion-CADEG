@@ -6,7 +6,7 @@ const client = new SparkPost(SPARKPOST);
 const sendEmail = (data) => {
   const {key, langue, email} = data;
   const title = {
-    en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la gouvernance] Confirmez votre choix !"}[langue];
+    en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la démocratie] Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
     fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
@@ -35,7 +35,7 @@ const sendEmail = (data) => {
     <meta name="x-apple-disable-message-reformatting" />
     <meta name="color-scheme" content="light dark" />
     <meta name="supported-color-schemes" content="light dark" />
-    <title>Le Champion AfricTivistes de la gouvernance et de la gouvernance #AfricTivistes</title>
+    <title>Le Champion AfricTivistes de la gouvernance et de la démocratie #AfricTivistes</title>
     <!--[if mso]>
       <noscript>
         <xml>
