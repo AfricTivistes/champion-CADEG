@@ -1,5 +1,6 @@
 ---
-title: "Alioune Tine"
+title: "Alioune Tine 🇸🇳"
+organisation: "AfrikaJom Center"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/aliounetine.png
 category:
