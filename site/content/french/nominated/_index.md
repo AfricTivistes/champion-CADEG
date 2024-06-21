@@ -1,7 +1,7 @@
 ---
 title: Contact
 date: 2021-05-21T12:45:52.867Z
-heading: Ne soyez pas timide ! <span>Nominez</span> quelqu'un.
+heading: Soyez un acteur ! <span>Nominez</span> quelqu'un.
 form_heading_1: Qui êtes-vous ?
 form_heading_2: Qui voulez-vous nominer?
 form_heading_3: Quelle initiative ou projet ?

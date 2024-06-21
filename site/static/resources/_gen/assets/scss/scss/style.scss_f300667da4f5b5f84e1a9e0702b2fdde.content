@@ -100,7 +100,7 @@ body {
   margin-bottom: 70px; }
   @media (max-width: 991px) {
     .section-title {
-      text-align: center; } }
+      text-align: justify } }
   .section-title h2 {
     font-weight: 300;
     letter-spacing: 2px;
@@ -176,7 +176,7 @@ textarea.form-control {
       max-width: 78px; }
   @media (max-width: 991px) {
     .site-navigation .nav-item {
-      text-align: center; } }
+      text-align: justify } }
   .site-navigation .nav-item .nav-link {
     font-family: "Montserrat", sans-serif;
     color: #00113E;
@@ -282,7 +282,7 @@ textarea.form-control {
   @media (max-width: 991px) {
     .site-counter-item {
       margin-bottom: 30px;
-      text-align: center; } }
+      text-align: justify } }
   .site-counter-item-title {
     font-size: 20px;
     font-weight: 300; }
@@ -378,11 +378,11 @@ textarea.form-control {
           font-size: 40px; } }
     @media (max-width: 991px) {
       .site-project-header-content {
-        text-align: center;
+        text-align: justify
         margin-bottom: 30px; } }
     .site-project-header-action {
       display: block;
-      text-align: center; }
+      text-align: justify }
       .site-project-header-action span {
         display: block;
         font-size: 30px;
@@ -630,7 +630,7 @@ textarea.form-control {
   @media (max-width: 575px) {
     .site-about-header {
       padding-top: 60px;
-      text-align: center; } }
+      text-align: justify } }
 
 .site-about-wrapper {
   display: flex;
@@ -673,7 +673,7 @@ textarea.form-control {
     margin: 10px 0 0 20px; }
     @media (max-width: 575px) {
       .site-expertise-list {
-        text-align: center;
+        text-align: justify
         margin: 0; } }
     .site-expertise-list li {
       list-style: none;
@@ -694,7 +694,7 @@ textarea.form-control {
       .site-client-wrapper {
         justify-content: center; } }
   .site-client-item {
-    text-align: center;
+    text-align: justify
     width: 20%;
     margin-bottom: 50px; }
     @media (max-width: 991px) {
@@ -713,7 +713,7 @@ textarea.form-control {
     position: relative; }
     @media (max-width: 767px) {
       .site-team-member {
-        text-align: center; } }
+        text-align: justify } }
     .site-team-member-image {
       position: absolute;
       width: 100px;
@@ -781,13 +781,13 @@ textarea.form-control {
     margin-bottom: 50px; }
     @media (max-width: 575px) {
       .site-footer-logo {
-        text-align: center; } }
+        text-align: justify } }
   @media (max-width: 991px) {
     .site-footer-widget {
       margin-bottom: 40px; } }
   @media (max-width: 575px) {
     .site-footer-widget {
-      text-align: center; } }
+      text-align: justify } }
   .site-footer-widget-title {
     color: #fff;
     margin-bottom: 30px; }
@@ -812,7 +812,7 @@ textarea.form-control {
         padding-bottom: 9px; }
   @media (max-width: 575px) {
     .site-footer-widget-top {
-      text-align: center;
+      text-align: justify
       display: block; } }
   .site-footer-widget-top img {
     margin-bottom: 20px; }

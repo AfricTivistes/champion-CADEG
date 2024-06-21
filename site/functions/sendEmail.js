@@ -6,10 +6,10 @@ const client = new SparkPost(SPARKPOST);
 const sendEmail = (data) => {
   const {key, langue, email} = data;
   const title = {
-    en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la gouvernance] Confirmez votre choix !"}[langue];
+    en: "Confirm your choice!", fr: "[Champion AfricTivistes de la gouvernance et de la démocratie] Confirmez votre choix !"}[langue];
   const text = {
     en: "Please click on the button below or the link to confirm your vote.",
-    fr: "Veuillez cliquer sur le bouton ci-dessous ou sur le lien pour confirmer votre vote."
+    fr: "Veuillez cliquer sur le bouton ci-dessous pour confirmer votre vote."
   }[langue];
   const btn = {en: "Confirm", fr: "Confirmer"}[langue];
   const link = `${BASE_URL}/api/voteverify?key=${key}`;
@@ -35,7 +35,7 @@ const sendEmail = (data) => {
     <meta name="x-apple-disable-message-reformatting" />
     <meta name="color-scheme" content="light dark" />
     <meta name="supported-color-schemes" content="light dark" />
-    <title>Le Champion AfricTivistes de la gouvernance et de la gouvernance #AfricTivistes</title>
+    <title>Le Champion AfricTivistes de la gouvernance et de la démocratie #AfricTivistes</title>
     <!--[if mso]>
       <noscript>
         <xml>
@@ -137,11 +137,8 @@ const sendEmail = (data) => {
           <h1>${title}</h1>
           <p>${text}</p>
           <hr />
-          <p style="text-align: center;">
+          <p style="text-align: justify;">
             <a href="${link}" class="btn-primary">${btn}</a>
-          </p>
-          <p style="word-wrap: break-word;">
-            <a href="${link}">${link}</a>
           </p>
           <hr />
           <a class="social" href="https://democracychampion.net/"

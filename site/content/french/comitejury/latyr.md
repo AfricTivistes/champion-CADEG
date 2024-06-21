@@ -1,22 +1,22 @@
 ---
-title: "Latyr Tine"
+title: "Latyr Tine 🇸🇳 "
+organisation: "Organisation: Gorée Institute"
 date: 2021-06-16T13:13:00.120Z
 image: /images/team/latyrtine.png
 category:
   - 
-feature_image: /images/team/latyrtine.png
+feature_image: /images/team/Latyr Tine.png
 author: Abdoulaye Guene
 ---
 
-Dr. Latyr Tine
-Chercheur en Paix et Sécurité,
-Senior Programme Coordinator à Gorée Institute 
+**Dr. Latyr Tine**, Chercheur en paix et sécurité, Coordonnateur principal de programme à l'Institut de Gorée. Il est titulaire d'un doctorat en sciences sociales et chercheur en paix et sécurité, spécialisé dans l'Afrique de l'Ouest et la région du Sahel. Il coordonne le programme de Consolidation de la Paix et de Prévention des Conflits à l'Institut de Gorée depuis août 2021, et il gère également le programme régional Puissance du Dialogue couvrant les pays du Sahel et le Projet Charte Afrique.
 
-Monsieur Latyr Tine est docteur en sciences sociales et chercheur en paix et sécurité spécialisé sur la partie ouest africaine et le Sahel. Il coordonne le programme Consolidation de la paix et Prévention des Conflits au niveau de Gorée Institut depuis aout 2021 et il gère aussi le programme régional Power of Dialogue qui couvre les pays du Sahel et le Charter Project Africa. 
+Avant cela, le Dr Tine était gestionnaire de programme chez Partners West Africa, où il a dirigé deux projets majeurs, notamment la feuille de route pour la sécurité dans le Sahel. Il a également géré les programmes Femmes, Paix et Sécurité, et Jeunesse, Paix et Sécurité au Réseau Ouest-Africain pour la Consolidation de la Paix. M. Tine est titulaire de trois masters et d'un doctorat.
 
-Avant cela, Dr. Tine était programme manager à Partners West Africa ou il a dirigé deux projets majeurs donc la feuille de route pour la sécurité au Sahel. Il aussi géré les programme Femmes Paix et Sécurité et Jeunes paix et sécurité à West African Network for Peacebuilding. 
-Monsieur Tine est titulaire des trois masters et d’un PhD. 
+En tant que chercheur en paix et sécurité, il a contribué à plusieurs études et a publié de nombreux articles sur des questions liées à la paix et à la sécurité en Afrique de l'Ouest et au Sahel.
 
-En tant que chercheur en paix et sécurité, il a contribué à plusieurs études et a publié plusieurs articles sur les questions liées à la paix et la sécurité en Afrique de l’Ouest et au Sahel. 
+Il travaille également comme consultant pour diverses organisations nationales et internationales.
 
-Il travaille aussi comme consultant pour plusieurs organisations nationales internationales. 
+**Pays: Sénégal** 
+
+**Organisation: Gorée Institute**

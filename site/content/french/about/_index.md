@@ -36,13 +36,13 @@ expertise_title: "Coin Innovateur pour la démocratie "
 * Le Champion AfricTivistes de la gouvernance et de la démocratie est une entité ou une personne morale ayant un impact substantiel dans les processus de démocratisation et de bonne gouvernance dans son pays. 
 
 - ***Son profil est celui d’un :***
-  * Chef d’Etat en exercice ou ancien chef d’Etat
-  * Institutions publiques
-  * Personnalités étatiques
-  * Organisations ou personnalités de la société civile
+  * Chef d’Etat en exercice ou ancien chef d’Etat,
+  * Institutions publiques,
+  * Personnalités étatiques,
+  * Organisations ou personnalités de la société civile.
 - ***Sa mission consiste à :***
-  * Défendre les principes fondamentaux de la CADEG
-  * Exercer un leadership exemplaire dans la promotion de la démocratie et de la gouvernance
+  * Défendre les principes fondamentaux de la CADEG,
+  * Exercer un leadership exemplaire dans la promotion de la démocratie et de la gouvernance.
 
 #### Historique
 

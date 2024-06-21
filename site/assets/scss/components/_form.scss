@@ -1,20 +1,23 @@
 #contact-form{
     background-color: $white;
     padding: 1em;
+    text-align: justify;
 
     strong{
         color: $primary-color;
+        text-align: justify;
     }
 }
 
 #contact-form-button{
-    text-align: center;
+    text-align: justify;
 }
 
 #vote-form{
-    text-align: center;
+    text-align: justify;
     padding-top: 1em;
     h2{
-      color: #f4a222;
+        color: #f4a222;
+        text-align: justify;
     }
 }

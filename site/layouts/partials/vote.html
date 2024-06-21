@@ -2,15 +2,14 @@
 {{ with $data.candidat }}
   {{ if .enable }}
   <section class="site-testimonial">
-    <div class="container">
+    <div class="container custom-container">
       <div class="row">
         {{ range .candidat_item }}
         <div class="col-lg-4 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
               <div class="thumb">
-                
-                <img src="{{ .thumb | absURL }}" alt="user-thumb-one" class="img-fluid" style="width: 100px; height: 80px;">
+                <img src="{{ .thumb | absURL }}" alt="user-thumb-one" class="img-fluid thumb-img">
               </div>
               <div class="person">
                 <h5>{{ .name }}</h5>
@@ -25,9 +24,7 @@
               </div>
             </div>
             <p class="site-testimonial-item-body">
-
                 {{ .quote | truncate 170 }}
-
             </p>
             <p>
               <a href="{{ .url | absURL }}" class="nav-link btn btn-sm btn-primary btn-sm-rounded mt-3">Vote</a>

@@ -1,19 +1,19 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "/images/cadeg.jpg"
+background_image      = "/images/cadeg.png"
 heading               = ""
 tagline               = ""
 primary_button        = "À propos"
 primary_button_url    = "about"
-secondary_button      = "Champions"
+secondary_button      = "Votez"
 secondary_button_url  = "vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
-title               = "Ne soyez pas timide ! votez pour quelqu'un."
-primary_button      = "Champions"
+title               = "Soyez un acteur! Votez pour quelqu'un."
+primary_button      = "Votez"
 primary_button_url  = "vote"
 
 [newsroom]
@@ -28,8 +28,8 @@ subtitle  = ""
 
 [comitejury]
 enable    = true
-title     = "COMITÉ DE SÉLECTION / JURY FINAL"
-subtitle  = ""
+title     = "Membres  du Jury"
+subtitle  = "Le jury est composé des membres du comité consultatif et du comité de sélection. Ces deux groupes regroupent des experts et des acteurs de la société civile africaine."
 
 
 [footer]
@@ -52,7 +52,7 @@ subtitle  = ""
         name = "Actualités"
         url  = "newsroom"
     [[footer.sitemap.link]]
-        name = "Champions"
+        name = "Votez"
         url  = "vote"
     # Footer Social Media
     [footer.social]
