@@ -1,6 +1,6 @@
 ---
 title: "Paschal Chem 🇨🇲 "
-organisation:  "Société civile sénégalaise"
+organisation:  "Société civile africaine"
 date: 2021-06-18T13:13:00.120Z
 image: /images/team/paschal.png
 category:
