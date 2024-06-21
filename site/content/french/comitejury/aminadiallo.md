@@ -10,5 +10,5 @@ author: Abdoulaye Guene
 **Aminata Diallo**, Secrétaire générale du jury, est Coordinatrice de projet pour les initiatives humanitaires. Consultant en droits et protection des femmes et des enfants. Député à la XIIe Législature Sénégalaise, elle est aussi présidente du réseau des Parlementaires qui s’intéresse à la protection des enfants contre les violences et les abus.  Présidente élue du Comité des Femmes et 
 Conseillère Spéciale en Genre et Enfance, elle a pour centres d’intérêt aux questions sociales. 
 
-**Pays : Sénégal**
-**Organisation : Société civile sénégalaise**
+**Pays : Sénégal**  
+**Société civile sénégalaise**

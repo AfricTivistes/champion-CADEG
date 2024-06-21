@@ -11,7 +11,6 @@ author: Abdoulaye Guene
 
 Avant de rejoindre l’Union africaine, il a travaillé dans le domaine des relations publiques, de la radiodiffusion et de la publicité, ainsi qu’au sein d’une organisation de la société civile au Cameroun. Il est titulaire d’un master en paix et sécurité et d’une licence en journalisme et communication de masse. Il est membre du réseau AfricTivistes depuis sa création en novembre 2015. 
 
-**Institution : Union Africaine** 
 
-**Pays : Nigéria**
-**Organisation : Société civile sénégalaise** 
+**Pays : Cameroun**
+**Société civile africaine**

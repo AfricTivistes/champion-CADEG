@@ -13,5 +13,5 @@ Initiateur de la Kebetu Digital Academy, j'accompagne ceux et celles qui prennen
 
 C’est un membre actif de la twittosphère africaine francophone et un acteur de la société civile.
 
-**Pays : Sénégal**
+**Pays : Sénégal**  
 **Organisation : AfricTivistes**

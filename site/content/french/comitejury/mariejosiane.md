@@ -15,8 +15,8 @@ Marie Josiane a été responsable pays et responsable du suivi, de l’évaluati
 
 Elle est titulaire d’une maîtrise en relations internationales de l’Institut des relations internationales du Cameroun. Elle est également une ancienne élève du programme Building State Capability du Centre pour le développement international de l’Université Harvard.
 
-Elle est membre de l’Africa Evidence Network basé à Johannesburg, en Afrique du Sud. Elle assure la présidente du jury. 
+Elle est membre de l’Africa Evidence Network basé à Johannesburg, en Afrique du Sud. 
 
 **Pays :  Ghana** 
 
-**Organisation : WADEMOS**
+**Société civile africaine**

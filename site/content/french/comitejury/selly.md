@@ -15,5 +15,5 @@ Par ailleurs, étant une fervente militante des droits humains, de la citoyennet
 
 Elle est auteure de plusieurs publications.
 
-**Pays : Sénégal**
-**Organisation : Société civile sénégalaise**
+**Pays : Sénégal**  
+**Société civile sénégalaise**
