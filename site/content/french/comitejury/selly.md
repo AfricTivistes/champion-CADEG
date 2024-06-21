@@ -1,5 +1,6 @@
 ---
-title: "Selly BA"
+title: "Selly BA 🇸🇳 "
+organisation:  "Société civile sénégalaise"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/selly.png
 category:

@@ -1,5 +1,6 @@
 ---
-title: "Latyr Tine"
+title: "Latyr Tine 🇸🇳 "
+organisation: "Organisation: Gorée Institute"
 date: 2021-06-16T13:13:00.120Z
 image: /images/team/latyrtine.png
 category:

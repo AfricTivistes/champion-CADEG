@@ -1,5 +1,6 @@
 ---
-title: "Ndioro Ndiaye"
+title: "Ndioro Ndiaye 🇸🇳 "
+organisation: "Société civile sénégalaise"
 date: 2021-06-15T13:13:00.120Z
 image: /images/team/ndioro.png
 category:

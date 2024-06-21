@@ -1,5 +1,6 @@
 ---
-title: "Jimm Chick Fomunjong"
+title: "Jimm Chick Fomunjong 🇨🇲 "
+organisation: "WACSI"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/jimm.png
 category:

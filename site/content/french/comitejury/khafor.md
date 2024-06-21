@@ -1,5 +1,6 @@
 ---
-title: "Abdou Khafor Kandji"
+title: "Abdou Khafor Kandji 🇸🇳 "
+organisation: "Y En A Marre"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/khafor.png
 category:

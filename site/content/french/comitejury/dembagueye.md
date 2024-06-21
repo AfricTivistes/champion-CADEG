@@ -1,5 +1,6 @@
 ---
-title: "Demba Gueye"
+title: "Demba Gueye 🇸🇳 "
+organisation : "AfricTivistes"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/dembagueye.png
 category:

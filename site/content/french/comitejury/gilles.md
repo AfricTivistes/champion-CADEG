@@ -1,5 +1,6 @@
 ---
-title: "Gilles Yabi"
+title: "Gilles Yabi 🇧🇯 "
+organisation: "Wathi Think Tank"
 date: 2021-06-09T13:13:00.120Z
 image: /images/team/gilles.png
 category:

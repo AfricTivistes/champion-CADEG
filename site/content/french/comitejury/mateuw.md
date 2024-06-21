@@ -1,5 +1,6 @@
 ---
-title: "Mateuw Mbaye"
+title: "Mateuw Mbaye 🇸🇳 "
+organisation: "Article 19"
 date: 2021-04-19T14:12:00.120Z
 image: /images/team/mateuw.png
 category:
