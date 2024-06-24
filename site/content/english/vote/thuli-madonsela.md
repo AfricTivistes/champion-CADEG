@@ -3,24 +3,25 @@ title: Thuli Madonsela
 projet: 
 date: 2024-02-08T12:10:00.074Z
 description: >
-  <p></p>Thuli Madonsela est une avocate et femme politique sud-africaine ayant participé à la rédaction de la Constitution dans les années 1990. Le 19 octobre 2009, elle est nommée médiatrice de la République (Protecteur du peuple) par le président Jacob Zuma (président du 9 mai 2009 au 14 février 2018) pour un mandat de sept ans non renouvelable du 19 octobre 2009 au 14 octobre 2016.  
+  <p></p>Thuli Madonsela is a South African lawyer who participated in the drafting of the Constitution in the 1990s. On 19 October 2009, she was appointed Public Protector of the Republic (Ombudsman) by President Jacob Zuma (president from 9 May 2009 to 14 February 2018) for a non-renewable seven-year term from 19 October 2009 to 14 October 2016.  
   <br></br>
 
-  En tant que “Protecteur du peuple”, elle se fait une réputation pour  son intégrité, son courage et son engagement en faveur de la justice et de la responsabilisation politique, notamment dans l'affaire Nkandla (2011-2012), où elle a dénoncé les dépenses excessives du président Jacob Zuma. Sa réputation de combattante contre la corruption fait d'elle une figure emblématique de la défense des droits humains et de la bonne gouvernance en Afrique du Sud et au-delà.
-  Le Protecteur du peuple est une institution indépendante en Afrique du Sud qui joue un rôle essentiel pour la protection des droits des citoyens et la promotion de la bonne gouvernance, en surveillant l'administration publique et en enquêtant sur les plaintes des citoyens concernant l'abus de pouvoir, la corruption et la mauvaise gestion. 
+  As Public Protector, she gained a reputation for her integrity, courage and commitment to justice and political accountability, particularly in the Nkandla affair (2011-2012), where she denounced the excessive spending of President Jacob Zuma. Her reputation as a fighter against corruption has made her an iconic figure in the defence of human rights and good governance in South Africa and beyond
+  The Public Protector is an independent institution in South Africa that plays a crucial role in protecting the rights of citizens and promoting good governance, by overseeing public administration and investigating citizens' complaints about abuse of power, corruption and maladministration. 
   <br></br>
 
-  Bénéficiant du soutien unanime des différents partis présents à l'Assemblée nationale, Thuli Madonsela, "Madame anticorruption", en raison de son courage, de sa pugnacité et de la précision de ses enquêtes, est devenue le pire cauchemar du chef de l’État Jacob Zuma .   
+  Benefitting from the unanimous support of the different parties present in the National Assembly, Thuli Madonsela, "Madam Anti-Corruption" due to her courage, tenacity and the precision of her investigations, became the worst nightmare of President Jacob Zuma  
    <br></br>
  
-  A échéance de son mandat, elle devient titulaire de la chaire de justice sociale à la faculté de droit de l'Université de Stellenbosch, en Afrique du Sud, poste qu’elle occupe toujours. 
+  At the end of her term, she became the holder of the chair of social justice at the Faculty of Law of the University of Stellenbosch in South Africa, a position she still holds.
   <br></br>
 
-  Elle a reçu plusieurs distinctions. En 2014, Le Time magazine l'identifie parmi les 100 personnalités les plus influentes dans le monde. En 2015, Elle est faite Doctor of Laws honoris causa de l'université de Fort Hare et de l'université de Stellenbosch. 
+  She has received several distinctions. In 2014, Time magazine named her one of the 100 most influential people in the world. In 2015, she was awarded an honorary Doctor of Laws degree from the University of Fort Hare and the University of Stellenbosch.
+
   <br></br>
 
-  Elle a été choisie par les membres du jury pour avoir incarnée l’institutionnalisation de la bonne Gouvernance. L’article 32 de la CADEG stipule que “Les Etats parties prennent les mesures nécessaires en vue d’institutionnaliser la bonne gouvernance politique”. Tandis que l’Article 13 de la CADEG stipule que “Les Etats parties prennent les mesures pour établir et maintenir un dialogue politique et social, ainsi que la transparence et la confiance entre les dirigeants politiques et les populations en vue de consolider la démocratie et la paix.”
-  Elle incarne désormais l'intégrité, le courage, l’esprit républicain et la lutte contre la corruption. 
+  She was chosen by the jury members for embodying the institutionalisation of good governance. Article 32 of the ACDEG stipulates that "State Parties shall take the necessary measures to institutionalise good political governance." While Article 13 of the ACDEG stipulates that "State Parties shall take measures to establish and maintain dialogue and social trust, as well as transparency and accountability between political leaders and the population in order to consolidate democracy and peace."
+  She now embodies integrity, courage, republican spirit and the fight against corruption. 
   <br></br>
 
 image: /images/vote/ThuliMadonsela.png

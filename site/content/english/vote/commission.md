@@ -1,21 +1,22 @@
 ---
-title: La Commission vérité, réconciliation et réparation (Gambie)
+title: The Truth, Reconciliation and Reparations Commission
 projet: 
 date: 2024-02-08T13:43:46.948Z
 description: >
-  <p></p>La Commission vérité, réconciliation et réparation (20 juillet 2017-15 octobre 2018) mise en place en décembre 2017 avait pour objectif principal d’établir un bilan historique impartial des violations des droits humains commises entre juillet 1994 et janvier 2017 sous la présidence de Yahya Jammeh. Elle était également chargée de retracer le sort des victimes disparues et d'accorder des réparations aux victimes lorsque nécessaires, et prévenir la répétition des violations en formulant des recommandations pour créer des mécanismes de prévention adaptés, incluant des réformes institutionnelles et légales. 
+  <p></p>The Truth, Reconciliation and Reparations Commission (20 July 2017-15 October 2018) established in December 2017 had as its main objective to establish an impartial historical record of human rights violations committed between July 1994 and January 2017 under the presidency of Yahya Jammeh. It was also tasked with tracing the fate of disappeared victims and granting reparations to victims where necessary, and preventing the recurrence of violations by formulating recommendations to create appropriate prevention mechanisms, including institutional and legal reforms.
   <br></br>
-  Une personne, Dr. Lamin Sise cristallise le travail remarquable de cette commission dont il deviendra le président, en 2021. Il est né et a grandi en Gambie. De 2008 à 2011, Dr Sise a été assistant exécutif, conseiller principal et confident proche de feu le Secrétaire général Kofi Annan (diplomate ghanéen, ancien secrétaire général des Nations unies);
+  One person, Dr. Lamin Sise, embodies the remarkable work of this commission, of which he became the president in 2021. He was born and raised in Gambia. From 2008 to 2011, Dr Sise was executive assistant, senior advisor and close confidant to the late Secretary-General Kofi Annan (Ghanaian diplomat, former UN Secretary-General).
   <br></br>
-  Dr Sise a travaillé pour les Nations Unies pendant plus de trente ans. Au cours des vingt-cinq dernières années, 
+  Dr Sise has worked for the United Nations for over thirty years. Over the past twenty-five years,
+
   <br></br>
-  Le 15 octobre 2018, le président Adama Barrow a nommé les 11 commissaires de la Commission Vérité, Réconciliation et Réparation (TRRC), qui ont prêté serment. La Commission a commencé ses audiences le 7 janvier 2019 et a soumis son rapport provisoire au gouvernement le 29 avril 2020.
+  On 15 October 2018, President Adama Barrow appointed the 11 commissioners of the Truth, Reconciliation and Reparations Commission (TRRC), who were sworn in. The Commission began its hearings on 7 January 2019 and submitted its interim report to the government on 29 April 2020.
   <br></br>
-  Le 24 décembre 2021, la TRRC a rendu son rapport final, lequel liste les noms de nombreuses personnes soupçonnées d'avoir perpétré des atrocités sous l'ère Jammeh. Par la suite, en 2022, un Livre blanc de la société civile sur le rapport et les recommandations de la TRRC a été également produit par le Groupe de travail des OSC sur la justice transitionnelle.
+  On 24 December 2021, the TRRC released its final report, which lists the names of many people suspected of having perpetrated atrocities during the Jammeh era. Subsequently, in 2022, a White Paper from civil society on the TRRC report and recommendations was also produced by the CSO Working Group on Transitional Justice.
   <br></br>
-  Les actions entreprises par la Commission vérité et justice, ainsi que le début des réparations pour les crimes commis sous Jammeh, méritent une attention particulière. Le régime post-Yaya Jammeh a également mis en œuvre des initiatives positives, notamment l'exigence du respect des procédures d'équité avant le licenciement d'une personne de la fonction publique sur recommandation de la Commission Vérité et Réconciliation. La ratification des traités, la régularité de la soumission des rapports périodiques, et l'acceptation et la mise en œuvre de nombreuses recommandations soulignent les efforts en faveur des réformes de gouvernance et de l'état de droit.
+  The actions taken by the Truth and Justice Commission, as well as the start of reparations for crimes committed under Jammeh, deserve particular attention. The post-Yaya Jammeh regime has also implemented positive initiatives, including the requirement of due process before dismissing a civil servant on the recommendation of the Truth and Reconciliation Commission. The ratification of treaties, the regular submission of periodic reports, and the acceptance and implementation of many recommendations highlight efforts towards governance reforms and the rule of law.
   <br></br>
-  La Commission Vérité et réconciliation a été choisie par les membres du jury pour l’application du chapitre des Réformes de gouvernance et Etat de droit dont l’article 11 établit que : “Les Etats parties s’engagent à élaborer les cadres législatif et politique nécessaires à l’instauration et au renforcement de la culture, de la démocratie et de la paix”. Tandis que l’article 4-1 stipule que : “Les Etats parties prennent l’engagement de promouvoir la démocratie, le principe de l’Etat de droit et les droits de l’Homme”. 
+  The Truth and Reconciliation Commission was chosen by the jury members for the application of the chapter on Governance Reforms and Rule of Law, whose Article 11 states that: "States Parties undertake to develop the necessary legislative and policy frameworks for the establishment and strengthening of a culture of democracy and peace". While Article 4-1 stipulates that: "States Parties undertake to promote democracy, the principle of the rule of law and human rights".
   <br></br>
 image: "/images/vote/DrLaminSise.png"
 name: "La Commission vérité, réconciliation et réparation"

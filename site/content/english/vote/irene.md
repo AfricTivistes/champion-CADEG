@@ -3,16 +3,26 @@ title: Irene Chirwa Mambilima (Zambie)
 projet: 
 date: 2024-02-08T13:43:46.948Z
 description: >
-  <p></p>Irene Chirwa Mambilima, née en 1952, ancienne présidente de la Cour suprême, est notamment reconnue pour son rôle dans le maintien de l'indépendance et de l'intégrité du système judiciaire zambien, tout en promouvant l'égalité des sexes et l'inclusion sociale concrètement à travers sa défense de l'État de droit et son plaidoyer en faveur de la participation des femmes à la vie politique et publique. 
+  <p></p>Irene Chirwa Mambilima, born in 1952, former Chief Justice, is particularly recognized for her role in maintaining the independence and integrity of the Zambian judicial system, while promoting gender equality and social inclusion through her defence of the rule of law and advocacy for women's participation in political and public life.
    <br></br>
  
-  En 2002, elle a été élevée au rang de juge à la Cour suprême de Zambie, la plus haute instance dans le système juridique de ce pays. Puis elle devient adjointe du président de la Cour Suprême. Elle s'est efforcée de garantir que les décisions de la cour soient impartiales et fondées sur la loi.
+  In 2002, she was elevated to the position of Supreme Court Judge, the highest court in Zambia's legal system. She then became the Deputy Chief Justice. She strived to ensure that the court's decisions were impartial and based on the law.
    <br></br>
  
-  Elle est choisie pour présider la Commission électorale de Zambie à plusieurs reprises, lors de scrutins majeurs. À ce titre, elle a présidé les élections présidentielles et parlementaires de 2006 et 2011 en Zambie, ainsi que l'élection présidentielle partielle de janvier 2015. Elle s’est fait une réputation en se montrant peu sensible aux pressions extérieures, vigilante au maintien d’un État de droit et tentant de rassurer les électeurs sur la régularité des élections. 
+  She was chosen to chair the Zambian Electoral Commission on several occasions during major elections. In this capacity, she chaired the 2006 and 2011 presidential and parliamentary elections in Zambia, as well as the January 2015 presidential by-election. 
   <br></br>
 
-  Elle était une figure éminente dans le domaine de la démocratie et de la gouvernance en Zambie. Elle a occupé plusieurs postes de responsabilité au sein du système judiciaire zambien, contribuant ainsi à renforcer l'État de droit et la gouvernance démocratique dans le pays.
+  She gained a reputation for being impervious to external pressure, vigilant in upholding the rule of law, and attempting to reassure voters about the regularity of the elections.
+
+  She was a prominent figure in the field of democracy and governance in Zambia. She held several leadership positions within the Zambian judicial system, thus contributing to strengthening the rule of law and democratic governance in the country.
+    <br></br>
+
+  Furthermore, Mambilima was involved in initiatives aimed at promoting women's participation in political and public life in Zambia. She advocated for the empowerment of women and their equitable representation in governmental and judicial institutions, thus contributing to the strengthening of democracy and social inclusion in the country.
+
+  Her legacy in terms of democracy and governance lies in her defence of the rule of law, justice, and equal opportunities for all Zambian citizens, as well as her contribution to the improvement of the country's judicial system.  
+  
+  She passed away on June 20, 2021 in Cairo.
+
   <br></br>
 
 
