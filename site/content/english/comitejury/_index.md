@@ -1,5 +1,4 @@
 ---
-title       : "SELECTION COMMITTEE / FINAL JURY"
-date        : 2019-12-23T20:17:01+06:00
-description : ""
+title       : "Membres du jury"
+date        : 2024-05-23T20:17:01+06:00
 ---
