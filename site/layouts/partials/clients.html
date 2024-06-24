@@ -12,7 +12,7 @@
           <div class="site-client-row text-center">
             {{ range .client_logos }}
             <a href="{{ .url | absURL }}" target="_blank"> 
-              <img src="{{ .image | absURL }}" alt="client-logo"/>
+              <img src="{{ .image | absURL }}" class="img-partenaire" alt="client-logo"/>
             </a>
 
             {{ end }}
