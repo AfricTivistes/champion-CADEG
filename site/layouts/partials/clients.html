@@ -9,9 +9,12 @@
               {{ .subtitle }}
             </p>
           </div>
-      <div class="site-client-row text-center">
+          <div class="site-client-row text-center">
             {{ range .client_logos }}
-          <img src="{{ . | absURL }}" alt="client-logo"/>
+            <a href="{{ .url | absURL }}" target="_blank"> 
+              <img src="{{ .image | absURL }}" alt="client-logo"/>
+            </a>
+
             {{ end }}
       </div>
     </div>
