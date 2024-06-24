@@ -36,6 +36,7 @@ subtitle  = "Le jury est composé des membres du comité consultatif et du comit
 # Footer Contact Info
 [footer.contactInfo]
     title   = "Informations de contact"
+    subtitle = "Cette activité est cofinancée par l'Union européenne. Son contenu relève de la seule responsabilité du Charter Project. Africa et ne reflète pas nécessairement les opinions de l'Union européenne"
     address = "AfricTivistes, BP : 19968 (Sénégal)"
     phone   = "(+221) 33 837 51 24"
     email   = "info@africtivistes.org"

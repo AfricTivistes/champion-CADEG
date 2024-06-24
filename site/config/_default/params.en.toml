@@ -1,68 +1,70 @@
 # Banner Section
 [banner]
 enable                = true
-background_image      = "/images/backgrounds/5finalistes.png"
+background_image      = "/images/cadeg.png"
 heading               = ""
 tagline               = ""
 primary_button        = "About"
 primary_button_url    = "about"
-secondary_button      = "Champions"
+secondary_button      = "Vote"
 secondary_button_url  = "vote"
 
 [call_to_action]
 enable              = true
 background_image    = "images/backgrounds/cta-background.jpg"
-title               = "Don’t be shy ! Vote for someone."
-primary_button      = "Champions"
+title               = "Be an actor! Vote for someone"
+primary_button      = "Vote"
 primary_button_url  = "vote"
 
 [newsroom]
 enable    = true
 title     = "NEWSROOM"
-subtitle  = "Latest news on AfricTivistes Civic Action Prize."
+subtitle  = "Keep up with all the latest news on the AfricTivistes Champion of Governance and Democracy"
 
 [press]
 enable    = true
-title     = "THE MEDIA IS TALKING ABOUT IT"
+title     = "LA PRESSE EN PARLE"
 subtitle  = ""
 
 [comitejury]
 enable    = true
-title     = "SELECTION COMMITTEE / FINAL JURY"
-subtitle  = ""
+title     = "Jury Members"
+subtitle  = "The jury is composed of members of the advisory committee and the selection committee. These two groups bring together experts and actors from African civil society."
+
 
 [footer]
 # Footer Contact Info
 [footer.contactInfo]
-    title = "Contact Information"
+    title   = "Informations de contact"
+    subtitle = "This activity is co-financed by the European Union. It's content is the sole responsability of the Charter Project Africa and does not necessarily reflect the opinions of the European Union"
     address = "AfricTivistes, BP : 19968 (Sénégal)"
-    phone = "(+221) 33 837 51 24"
-    email = "info@africtivistes.org"
+    phone   = "(+221) 33 837 51 24"
+    email   = "info@africtivistes.org"
     # Footer Sitemap
     [footer.sitemap]
-    title = "Sitemap"
+    title   = "Sitemap"
     [[footer.sitemap.link]]
         name = "Home"
-        url = "/"
+        url = "/en"
     [[footer.sitemap.link]]
         name = "About"
-        url = "/about"
+        url  = "en/about"
     [[footer.sitemap.link]]
-        name = "Newsroom"
-        url = "/newsroom"
+        name = "News"
+        url  = "en/newsroom"
     [[footer.sitemap.link]]
-        name = "Nominate someone"
-        url = "/nominated"
+        name = "Vote"
+        url  = "en/vote"
     # Footer Social Media
     [footer.social]
-    title = "Social Media"
+    title   = "Social Media"
     [[footer.social.link]]
         name = "Twitter"
-        url = "https://twitter.com/AFRICTIVISTES"
+        url  = "https://twitter.com/AFRICTIVISTES"
     [[footer.social.link]]
         name = "Facebook"
-        url = "https://www.facebook.com/africtivistes/"
+        url  = "https://www.facebook.com/africtivistes/"
     # Footer Service
     [footer.service]
-    title = "AfricTivists Civic Action Award"
-    description = "Rewarding citizen champions"
+    title       = ""
+    description = ""
