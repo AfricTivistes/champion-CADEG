@@ -1,5 +1,8 @@
 enable        : true
 title         : "Partenaires"
+subtitle: "Un consortium d'organisations africaines et européennes soutient la mise en œuvre de Charter Project Africa.
+            Leurs efforts conjoints créent une présence continentale expansive avec accès à de nombreux réseaux pour des
+            opportunités de collaboration dynamiques."
 client_logos  : 
  [
  "images/clients/africtivistes.svg",

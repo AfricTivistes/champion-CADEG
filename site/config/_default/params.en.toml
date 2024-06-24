@@ -28,7 +28,7 @@ subtitle  = ""
 
 [comitejury]
 enable    = true
-title     = "Membres  du Jury"
+title     = "Jury Members"
 subtitle  = "The jury is composed of members of the advisory committee and the selection committee. These two groups bring together experts and actors from African civil society."
 
 
@@ -36,6 +36,7 @@ subtitle  = "The jury is composed of members of the advisory committee and the s
 # Footer Contact Info
 [footer.contactInfo]
     title   = "Informations de contact"
+    subtitle = "This activity is co-financed by the European Union. It's content is the sole responsability of the Charter Project Africa and does not necessarily reflect the opinions of the European Union"
     address = "AfricTivistes, BP : 19968 (Sénégal)"
     phone   = "(+221) 33 837 51 24"
     email   = "info@africtivistes.org"
@@ -44,16 +45,16 @@ subtitle  = "The jury is composed of members of the advisory committee and the s
     title   = "Sitemap"
     [[footer.sitemap.link]]
         name = "Home"
-        url = "/"
+        url = "/en"
     [[footer.sitemap.link]]
         name = "About"
-        url  = "about"
+        url  = "en/about"
     [[footer.sitemap.link]]
         name = "News"
-        url  = "newsroom"
+        url  = "en/newsroom"
     [[footer.sitemap.link]]
         name = "Vote"
-        url  = "vote"
+        url  = "en/vote"
     # Footer Social Media
     [footer.social]
     title   = "Social Media"

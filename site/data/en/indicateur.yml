@@ -1,0 +1,9 @@
+enable : true
+title : "Selection indicators"
+subtitle : "The identification of the nominees was based on the thirty-eight (38) countries that had ratified the charter, using indicators that allowed the respective progress of each country that had ratified the African Charter on Democracy, Elections and Governance (ACDEG) to be measured in terms of the implementation of the values and principles of the said Charter. Furthermore, it was based on the documentation provided and the perception over a period from 2012 to 2023 (reports, studies, guides, etc.), with a focus on African data."
+btnText : "More information..."
+image: "/images/championscadeg.png"
+feature_image: "/images/cadeg.jpg"
+countdownYear : 2021
+countdownMonth : 10
+countdownDay  : 22
