@@ -1,0 +1,60 @@
+enable  : true
+title   : "CHAMPION AFRICTIVISTS OF GOVERNANCE AND DEMOCRACY ! "
+subtitle: "The Champion AfricTivists of Governance and Democracy is an award given to an individual or institution that best upholds the principles of the African Charter on Democracy, Elections and Governance during their time in power. It is a public figure who has had a substantial impact on the processes of democratisation and good governance in their country."
+candidat_item :
+  - thumb : "/images/vote/ThuliMadonsela.png"
+    name  : "Thuli Madonsela"
+    id    : c1
+    company_position: "🇿🇦"
+    url: en/vote/thuli-madonsela
+    quote : > 
+            Thuli Madonsela is a South African lawyer who participated in the drafting of the Constitution in the 1990s. On 19 October 2009, she was appointed Public Protector of the Republic (Ombudsman) by President Jacob Zuma (president from 9 May 2009 to 14 February 2018) for a non-renewable seven-year term from 19 October 2009 to 14 October 2016..
+    facebook: ""
+    linkedIn: ""
+    twitter: ""
+
+  - thumb : "/images/vote/DavidMaraga.png"
+    name  : "La Cour Suprême du Kenya"
+    id    : c2
+    company_position: "🇰🇪"
+    url: en/vote/cour-supreme
+    quote : > 
+            The Supreme Court of Kenya has succeeded in developing a revolutionary Constitution of "endogenous" inspiration despite the major post-election crisis the country has experienced. Unlike other countries, the members of the Kenyan Supreme Court are not elected but appointed...
+    facebook: ""
+    linkedIn: ""
+    twitter: ""
+
+  - thumb : "/images/vote/DrLaminSise.png"
+    name  : "La Commission vérité, réconciliation et réparation"
+    id    : c3
+    company_position: "🇬🇲"
+    url: en/vote/commission
+    quote : > 
+            The Truth, Reconciliation and Reparations Commission (20 July 2017-15 October 2018) established in December 2017 had as its main objective to establish an impartial historical record of human rights violations committed between July 1994 and January 2017 under the presidency of Yahya Jammeh
+    facebook: ""
+    instagram: ""
+
+  - thumb : "/images/vote/BobHeingob.png"
+    name  : "Le Président Hage Geingob"
+    id    : c4
+    company_position: "🇳🇦"
+    url: en/vote/geingob
+    quote : > 
+            President Hage Geingob, born in 1941, has provided remarkable leadership in favour of democracy and transparency in Namibia, as well as in continental governance. During his presidency, he has taken important steps to strengthen democratic institutions and promote citizen participation.
+    facebook: ""
+    site: ""
+    linkedIn: ""
+    twitter: ""
+
+  - thumb : "/images/vote/comiephoto.png"
+    name  : "Irene Chirwa Mambilima"
+    id    : c5
+    company_position: "🇿🇲"
+    url: en/vote/irene
+    quote : > 
+            Irene Chirwa Mambilima, born in 1952, former Chief Justice, is particularly recognized for her role in maintaining the independence and integrity of the Zambian judicial system, while promoting gender equality and social inclusion through her defence of the rule of law and advocacy for women's participation in political and public life.
+
+    facebook: ""
+    site: ""
+    linkedIn: ""
+    twitter: ""

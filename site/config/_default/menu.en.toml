@@ -1,17 +1,21 @@
 # Navbar Menus
 [[nav]]
   name    = "Home"
-  url     = "/"
+  url     = "/en"
   weight  = 1
 [[nav]]
   name    = "About"
-  url     = "about"
+  url     = "en/about"
   weight  = 2
 [[nav]]
   name    = "Newsroom"
-  url     = "newsroom"
+  url     = "en/newsroom"
   weight  = 3
 [[nav]]
-  name    = "Champions"
-  url     = "vote"
+  name    = "Jury"
+  url     = "en/comitejury"
   weight  = 4
+[[nav]]
+  name    = "Vote"
+  url     = "en/vote"
+  weight  = 5
