@@ -1,6 +1,6 @@
 ---
 title: "Marie Josiane Nga 🇬🇭 "
-organisation: "Société civile africaine"
+organisation: "WADEMOS"
 date: 2021-06-19T13:13:00.120Z
 image: /images/team/Marie-Josiane.png
 category:

@@ -1,6 +1,6 @@
 ---
 title: "Ibrahima Kane 🇸🇳 "
-organisation: "Société civile africaine"
+organisation: "Open Society"
 date: 2021-05-17T13:13:00.120Z
 image: /images/team/ibrahimakane.png
 category:
