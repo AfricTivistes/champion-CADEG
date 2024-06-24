@@ -14,7 +14,7 @@ candidat_item :
     twitter: ""
 
   - thumb : "/images/vote/DavidMaraga.png"
-    name  : "La Cour Suprême du Kenya"
+    name  : "The Supreme Court of Kenya"
     id    : c2
     company_position: "🇰🇪"
     url: en/vote/cour-supreme
@@ -25,7 +25,7 @@ candidat_item :
     twitter: ""
 
   - thumb : "/images/vote/DrLaminSise.png"
-    name  : "La Commission vérité, réconciliation et réparation"
+    name  : "The Truth, Reconciliation and Reparations Commission"
     id    : c3
     company_position: "🇬🇲"
     url: en/vote/commission
@@ -35,7 +35,7 @@ candidat_item :
     instagram: ""
 
   - thumb : "/images/vote/BobHeingob.png"
-    name  : "Le Président Hage Geingob"
+    name  : "President Hage Geingob"
     id    : c4
     company_position: "🇳🇦"
     url: en/vote/geingob
