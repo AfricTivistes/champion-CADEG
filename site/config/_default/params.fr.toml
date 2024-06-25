@@ -64,6 +64,12 @@ subtitle  = "Le jury est composé des membres du comité consultatif et du comit
     [[footer.social.link]]
         name = "Facebook"
         url  = "https://www.facebook.com/africtivistes/"
+    [[footer.social.link]]
+        name = "Youtube"
+        url  = "https://www.youtube.com/@africtivistes8303"
+    [[footer.social.link]]
+        name = "Linkedin"
+        url  = "https://www.linkedin.com/company/africtivistes/mycompany/"
     # Footer Service
     [footer.service]
     title       = ""
