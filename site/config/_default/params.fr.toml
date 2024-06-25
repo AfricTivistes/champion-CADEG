@@ -40,6 +40,7 @@ subtitle  = "Le jury est composé des membres du comité consultatif et du comit
     address = "AfricTivistes, BP : 19968 (Sénégal)"
     phone   = "(+221) 33 837 51 24"
     email   = "info@africtivistes.org"
+    site    = "https://www.africtivistes.com/"
     # Footer Sitemap
     [footer.sitemap]
     title   = "Sitemap"
