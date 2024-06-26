@@ -12,7 +12,7 @@ twitter: ""
 ---
 Late President Hage Geingob (1941-2024), demonstrated remarkable leadership in favour of democracy and transparency in Namibia, as well as in African governance. During his presidency, he took important steps to strengthen democratic institutions and promote citizen participation.
 
-Under his leadership, Namibia organised several presidential and legislative elections that were generally considered transparent and fair by international observers, thus maintaining free and fair elections. President Geingob defended the right to freedom of expression and encouraged a favourable environment for independent media, allowing constructive criticism of the government, thus promoting freedom of expression and the media.
+Under his leadership, Namibia organised several presid ential and legislative elections that were generally considered transparent and fair by international observers, thus maintaining free and fair elections. President Geingob defended the right to freedom of expression and encouraged a favourable environment for independent media, allowing constructive criticism of the government, thus promoting freedom of expression and the media.
 
 He has implemented initiatives to combat corruption within the government and the civil service, thus strengthening accountability and transparency in governance. Under his leadership, the government undertook decentralisation efforts, transferring certain powers and resources to regional and local authorities, thus promoting better representation of citizens.
 
