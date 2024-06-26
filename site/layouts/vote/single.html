@@ -1,73 +1,58 @@
 {{ define "main" }}
 
 <section class="site-about-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="site-about-wrapper">
-          <div class="site-about-company">
-            <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
-            <form id="contact-form" name="vote" method="POST" data-netlify="true" data-netlify-recaptcha="true">
-              <div class="row">
-                <div class="col-12">
-                 
-                  <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p>
-                  <ol>
-                    <li>{{ i18n "vote2" }}</li>
-                    <li>{{ i18n "vote3" }}</li>
-                    <li>{{ i18n "vote4" }}</li>
-                  </ol>
-                </div>
-                <div class="col-12">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
-                </div>
-                <div class="col-12">
-                  <input type="hidden" name="name" id="name" value="{{ .Params.name }}">
-                  <input type="hidden" name="link" id="link" value="{{ .Page.Permalink }}">
-                  <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
-                </div>
-                <div class="col-12 alert" id="contact-form-status" role="alert"></div>
-                <div class="col-12" id="contact-form-button">
-                  <div data-netlify-recaptcha="true"></div>
-                  <button type="submit" class="btn btn-primary">
-                    <span class="btn-area">
-                      <span data-text="{{ i18n "vote" }}">
-                        {{ i18n "vote" }}
-                      </span>
-                    </span>
-                  </button>
+  <div class="container justify-content-center">
+    <div class="mt-5">
+      <div class="row justify-content-center">
+        <h1>{{.Title}}</h1>
+        </div>
+          <div class="row justify-content-center">
+                <img class="feature-image img-fluid justify-content-center" src="{{ .Params.Image | absURL }}" alt="image"class="center-img">
+              <div class="site-about-company justify-content-center">
+                <form id="contact-form" name="vote" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+                    <div class="col-12">
+                      <p>{{ i18n "vote1" }} <strong>{{ .Title }}</strong></p>
+                      <ol>
+                        <li>{{ i18n "vote2" }}</li>
+                        <li>{{ i18n "vote3" }}</li>
+                        <li>{{ i18n "vote4" }}</li>
+                      </ol>
+                    </div>
+                    <div class="col-12">
+                      <input type="email" class="form-control" name="email" id="email" placeholder="{{ i18n "email" }}" required>
+                    </div>
+                    <div class="col-12">
+                      <input type="hidden" name="name" id="name" value="{{ .Params.name }}">
+                      <input type="hidden" name="link" id="link" value="{{ .Page.Permalink }}">
+                      <input type="hidden" name="langue" id="langue" value="{{ i18n "langue" }}">
+                    </div>
+                    <div class="col-12 alert" id="contact-form-status" role="alert"></div>
+                    <div class="col-12" id="contact-form-button">
+                      <div data-netlify-recaptcha="true"></div>
+                      <button type="submit" class="btn btn-primary">
+                        <span class="btn-area">
+                          <span data-text="{{ i18n "vote" }}">
+                            {{ i18n "vote" }}
+                          </span>
+                        </span>
+                      </button>
+                    </div>
+                </form>
+                <div id="vote-form">
+                  <h4>Merci d'avoir voté pour moi.</h4>
                 </div>
               </div>
-            </form>
-            <div id="vote-form">
-              <h4>Merci d'avoir voté pour moi..</h4>
             </div>
-          </div>
-          <div class="site-about-description">
-            <h2>{{.Title}}</h2>
-            <h3>{{.Params.Projet}}</h3>
-            <ul class="site-team-member-social">
-              <li><a href="{{ .Params.facebook | absURL }}"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="{{ .Params.twitter | absURL }}"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="{{ .Params.instagram | absURL }}"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="{{ .Params.linkedin | absURL }}"><i class="fa fa-linkedin"></i></a></li>
-              <li><a href="{{ .Params.site | absURL }}"><i class="fa fa-globe"></i></a></li>
-            </ul>
-            <p>
-              {{ .Description | safeHTML}}
-            </p>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
 
-<section class="site-about-header">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 site-about-description" >
-        {{ .Content }}
+    <div class="row justify-content-center mt-3">
+      <div class="col-lg-8">
+        <article class="site-blog-details">
+          {{ .Content }}
+        </article>
       </div>
     </div>
   </div>
