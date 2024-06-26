@@ -1,6 +1,6 @@
 ---
-title       : "Champion AfricTivistes de la gouvernance et de la démocratie !"
-date        : 2021-08-28T15:58:01+06:00
-description : "Le Champion AfricTivistes de la gouvernance et de la démocratie est une distinction à une personnalité ou une institution qui respecte au mieux les principes de la Charte Africaine de la Démocratie des Elections et de la Gouvernance durant l’exercice du pouvoir. Il s’agit d’un acteur public ayant un impact substantiel dans les processus de démocratisation et de bonne gouvernance dans son pays."
+title       : "Champion AfricTivistes of governance and democracy"
+date        : 2024-06-23T15:58:01+06:00
+description : "The AfricTivistes Champion of Governance and Democracy is a recognition presented  to an individual or institution that best upheld the principles and values of the African Charter on Democracy, Elections and Governance while perform their duties. S/He is a public actor with a substantial impact on the processes of democratisation and good governance in his/her country."
 ---
 

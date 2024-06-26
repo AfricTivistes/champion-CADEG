@@ -3,13 +3,16 @@ title         : "Partenaires"
 subtitle: "Un consortium d'organisations africaines et européennes soutient la mise en œuvre de Charter Project Africa.
             Leurs efforts conjoints créent une présence continentale expansive avec accès à de nombreux réseaux pour des
             opportunités de collaboration dynamiques."
-client_logos  : 
- [
- "images/clients/africtivistes.svg",
- "images/clients/codeforafrica.svg",
- "images/clients/dwf.svg",  
- "images/clients/ecdpm.svg",
- "images/clients/epd.svg",
- "images/clients/goree.svg",
- 
- ]
+client_logos:
+  - image: "images/clients/africtivistes.svg"
+    url: "https://www.africtivistes.org"
+  - image: "images/clients/codeforafrica.svg"
+    url: "https://codeforafrica.org"
+  - image: "images/clients/dwf.svg"
+    url: "https://www.democracyworks.org.za/"
+  - image: "images/clients/ecdpm.svg"
+    url: "https://ecdpm.org"
+  - image: "images/clients/epd.svg"
+    url: "https://www.epd.eu"
+  - image: "images/clients/goree.svg"
+    url: "https://goreeinstitut.org"

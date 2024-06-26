@@ -1,31 +1,35 @@
 ---
-title: Le Président Hage Geingob (Namibie)
+title: President Hage Geingob (Namibie)
 projet: 
 date: 2024-02-08T13:43:46.948Z
 description: >
-  <p></p>Le Président Hage Geingob, né en 1941, a exercé un leadership remarquable en faveur de la démocratie et de la transparence en Namibie, ainsi que dans la gouvernance continentale. Durant sa présidence, il a pris des mesures importantes pour renforcer les institutions démocratiques et promouvoir la participation citoyenne.
+  <p></p>President Hage Geingob, born in 1941, has provided remarkable leadership in favour of democracy and transparency in Namibia, as well as in continental governance. During his presidency, he has taken important steps to strengthen democratic institutions and promote citizen participation.
   <br></br>
 
-  Sous sa direction, la Namibie a organisé plusieurs élections présidentielles et législatives qui ont été généralement considérées comme transparentes et justes par les observateurs internationaux, maintenant ainsi des élections libres et équitables. Le Président Geingob a défendu le droit à la liberté d'expression et a encouragé un environnement favorable aux médias indépendants, permettant une critique constructive du gouvernement, promouvant ainsi la liberté d'expression et des médias.
+  Under his leadership, Namibia has held several presidential and legislative elections that have generally been considered transparent and fair by international observers, thus maintaining free and fair elections. President Geingob has defended the right to freedom of expression and has encouraged an environment favourable to independent media, allowing constructive criticism of the government, thus promoting freedom of expression and the media.
   <br></br>
 
-  Il a mis en place des initiatives pour lutter contre la corruption au sein du gouvernement et de la fonction publique, renforçant ainsi la responsabilité et la transparence dans la gouvernance. Sous sa direction, le gouvernement a entrepris des efforts de décentralisation, transférant certains pouvoirs et ressources aux autorités régionales et locales, favorisant ainsi une meilleure représentation des citoyens.
+  He has implemented initiatives to combat corruption within the government and the civil service, thus strengthening accountability and transparency in governance. Under his leadership, the government has undertaken decentralisation efforts, transferring certain powers and resources to regional and local authorities, thus promoting better representation of citizens.
   <br></br>
 
-  Le Président Geingob a cherché à impliquer davantage les groupes historiquement marginalisés dans les processus décisionnels, renforçant ainsi la représentation et la participation de tous les Namibiens par la promotion de l'inclusion et de la diversité. Bien que des défis persistent, ces actions ont contribué à approfondir la démocratie namibienne sous la présidence de Hage Geingob, dont le leadership et l'engagement en faveur de la gouvernance démocratique laisseront une empreinte durable. 
+  President Geingob has sought to involve historically marginalised groups more in decision-making processes, thus strengthening the representation and participation of all Namibians by promoting inclusion and diversity. Although challenges remain, these actions have contributed to deepening Namibian democracy under the presidency of Hage Geingob, whose leadership and commitment to democratic governance will leave a lasting legacy.
+
   <br></br>
 
-  Il est décédé le 4 février 2024 à Windhoek.
+  He died on 4 February 2024 in Windhoek.
   <br></br>
 
-  Hage Geingob a reçu plusieurs prix et distinctions pour son leadership, dont le prix Récompense pour l'ensemble de la carrière 2023 de la Chambre africaine de l'énergie lors de la conférence African Energy Week à Cape Town.
+  Hage Geingob has received several awards and distinctions for his leadership, including the 2023 Lifetime Achievement Award from the African Energy Chamber at the African Energy Week conference in Cape Town.
   <br></br>
  
-  2 principes de la CADEG ont guidé le choix porté sur le président Geingob : 
-  De l'état de droit stipulé par l’Article 4 : 
-  “Les Etats parties prennent l’engagement de promouvoir la démocratie, le principe de l’Etat de droit et les droits de l’homme”. 
-  Les Etats parties considèrent la participation populaire par le biais du suffrage universel comme un droit inaliénable des peuples”. 
-  Des Élections libres et transparentes stipulé par l’Article 17 : “Les Etats parties réaffirment leur engagement à tenir régulièrement des élections transparentes,libres et justes conformément à la Déclaration de l’Union sur les principes régissant les élections démocratiques en Afrique”.
+  2 principles of the ACDEG have guided the choice of President Geingob:
+  The rule of law as stipulated in Article 4:
+  "State Parties undertake to promote democracy, the principle of the rule of law and human rights."
+
+  "State Parties consider popular participation through universal suffrage as an inalienable right of the peoples".
+
+  Free and transparent elections as stipulated in Article 17: "State Parties reaffirm their commitment to regularly holding transparent, free and fair elections in accordance with the African Union's Declaration on the Principles Governing Democratic Elections in Africa".
+
   <br></br>
 
 

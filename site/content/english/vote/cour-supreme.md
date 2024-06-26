@@ -1,25 +1,27 @@
 ---
-title: La Cour Suprême du Kenya
+title: The Supreme Court of Kenya
 projet: 
 date: 2024-02-08T13:43:46.948Z
 description: >
-  <p></p>La Cour Suprême du Kenya a réussi à élaborer une Constitution révolutionnaire d'inspiration "endogène" malgré la crise post-électorale majeure que le pays a connue. À la différence d'autres pays, les membres de la Cour suprême kényane ne sont pas élus mais nommés. Elle demeure également l'une des rares, voire l'unique, cours constitutionnelles à avoir annulé une élection présidentielle en raison, selon la Cour suprême, d’irrégularités mises à jour dans la transmission des résultats. La justice kényane a fréquemment annulé des décisions de l'exécutif, notamment la loi sur la parité. 
-  En 2020, Le président de la Cour suprême du Kenya, David Maraga, a demandé au président Uhuru Kenyatta de dissoudre le parlement parce qu'il ne compte pas suffisamment de femmes.
+  <p></p>The Supreme Court of Kenya has succeeded in developing a revolutionary Constitution of "endogenous" inspiration despite the major post-election crisis the country has experienced. Unlike other countries, the members of the Kenyan Supreme Court are not elected but appointed. It also remains one of the few, if not the only, constitutional courts to have annulled a presidential election due, according to the Supreme Court, to irregularities revealed in the transmission of results. The Kenyan judiciary has frequently annulled executive decisions, including the gender parity law. 
   <br></br>
 
-  Cette cour suprême joue un rôle essentiel dans la régulation du jeu politique et institutionnel, contribuant à instaurer une culture d'indépendance judiciaire au Kenya grâce à ses nombreuses jurisprudences. Le président de la Cour suprême, le juge David Maraga, a rendu un verdict historique, annulant la victoire d’Uhuru Kenyatta, en 2017, et ordonnant la tenue de nouvelles élections. Selon la Cour suprême, les irrégularités mises à jour dans la transmission des résultats suffisent à mettre en doute l’intégrité du scrutin.  La réélection de Uhuru Kenyatta sera validée à la suite d’élections libres et transparentes.
+  In 2020, the President of the Supreme Court of Kenya, David Maraga, asked President Uhuru Kenyatta to dissolve Parliament because it did not have enough women.
+
+  This Supreme Court plays a crucial role in regulating the political and institutional game, helping to establish a culture of judicial independence in Kenya through its many precedents. The President of the Supreme Court, Judge David Maraga, delivered a historic verdict, annulling Uhuru Kenyatta's victory in 2017 and ordering new elections. According to the Supreme Court, the irregularities revealed in the transmission of the results were sufficient to cast doubt on the integrity of the poll. Uhuru Kenyatta's re-election will be validated following free and transparent elections.
+
   <br></br>
 
-  Avant d'être nommé juge à la Haute Cour, David Maraga a été un praticien du droit en privée pendant 25 ans, engagé dans des litiges civils et pénaux ainsi que dans des affaires de transfert de propriété. Pendant cette période, il a également été juge aux stands commerciaux du Salon agricole de Nakuru de 1985 à 1990.
+  Before being appointed a High Court judge, David Maraga was a private law practitioner for 25 years, involved in civil and criminal litigation as well as property transfer cases. During this period, he also served as a judge at the commercial stands of the Nakuru Agricultural Show from 1985 to 1990.
   <br></br>
 
-  Il a quitté ses fonctions en 2020 après avoir atteint l'âge de la retraite. Le 25 avril 2024, David Maraga  a abordé le problème de la corruption au Kenya et recommandé des mesures de réforme clé, à l’occasion du lancement du 3ème atelier EACC (Ethics And Anti-Corruption Commission) pour les praticiens des médias.
+  He left his position in 2020 after reaching retirement age. On 25 April 2024, David Maraga addressed the issue of corruption in Kenya and recommended key reform measures, on the occasion of the launch of the 3rd EACC (Ethics And Anti-Corruption Commission) workshop for media practitioners.
   <br></br>
 
-  En décembre 2023, le juge émérite a reçu un diplôme honorifique de l'Université de Kabarak, au Kenya. 
+  In December 2023, the emeritus judge received an honorary degree from Kabarak University in Kenya.
    <br></br>
 
-  La Cour Suprême sous David Maraga (2016-2021) a été choisie par les membres du jury en raison de l’application du chapitre Institutions démocratiques de la CADEG. L’article 15 de la CADEG qui stipule : “Les Etats parties veillent à ce que la Constitution garantisse l’indépendance ou l’autonomie desdites institutions”.
+  The Supreme Court under David Maraga (2016-2021) was chosen by the jury members for the application of the Democratic Institutions chapter of the CADEG. Article 15 of the CADEG states: "State Parties shall ensure that the Constitution guarantees the independence or autonomy of the said institutions."
   <br></br>
 
 
