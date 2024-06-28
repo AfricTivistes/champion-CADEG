@@ -8,8 +8,8 @@ category:
 feature_image: /images/team/Mamadou Mbodj.png
 author: Abdoulaye Guene
 ---
-**Mamadou Mbodj**, est le coordonnateur du Mouvement forces vives du Sénégal F24, Mamadou Mbodj, est un professeur de philosophe à la retraite. Docteur en sciences de l’éducation, M. Mbodj a dirigé le M23, un mouvement de partis politiques, de syndicats et d’organisations de la société civile à la pointe de la contestation de la candidature d’Abdoulaye Wade à l’élection présidentielle de 2012.
+**Mamadou Mbodj** is the coordinator of the Forces Vives 24  (F24) Movement in Senegal. Mamadou Mbodj is a retired professor of philosophy. Holder of a doctorate in educational sciences, Mr. Mbodj led the M23, a movement of political parties, trade unions and civil society organisations at the forefront of the challenge to Abdoulaye Wade's candidacy that ushered in a change in governance during the 2012 presidential election.
 
-**Pays : Sénégal** 
+**Country: Senegal**
 
-**Organisation : F24**
+**Organisation: F24**

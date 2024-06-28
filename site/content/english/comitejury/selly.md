@@ -8,13 +8,12 @@ category:
 feature_image: /images/team/Selly BA.png
 author: Abdoulaye Guene
 ---
-**Dr Selly Ba, est** docteure en sociologie, spécialisée sur les questions de genre en lien avec la religion, la migration et la sécurité. Elle dispose d’un DEA sur Genre et politique.
+**Dr. Selly Ba** is a sociologist specialised in gender issues related to Religion, migration and security. She holds a postgraduate degree (DEA) on Gender and Politics.
 
-Elle dispose plus d’une quinzaine d’années d’expertise et d’assistance technique pour l’intégration et la mise en œuvre de l’égalité de genre au Sénégal et dans les pays de l’UEMOA pour le compte de plusieurs bailleurs et agences de coopération. Depuis 2017, elle est directrice du cabinet Gender Expertise Group (GEG). Elle a une bonne connaissance et compréhension des stratégies d’intervention et cadres de programmation des institutions publiques en Afrique ouest. Mais également, une solide compréhension des procédures et outils de planification/programmation des Agences du Système des Nations Unies et des sectoriels au niveau gouvernemental.
+She has over fifteen years of expertise and technical assistance for the integration and implementation of gender equality in Senegal and the West African Economic and Monetary Union (WAEMU) countries on behalf of several donors and cooperation agencies. She is the director of the Gender Expertise Group (GEG) firm since 2017. She has a good knowledge and understanding of the intervention strategies and programming frameworks of public institutions in West Africa. She also has a strong understanding of the planning/programming procedures and tools of United Nations’ agencies and sectoral government bodies.
 
-Par ailleurs, étant une fervente militante des droits humains, de la citoyenneté active, elle est membre de plusieurs plateformes au niveau de la société civile sénégalaise.
+Furthermore, as a fervent advocate of human rights and active citizenship, she is a member of several platforms within Senegalese civil society. She authored several publications.
 
-Elle est auteure de plusieurs publications.
+**Country: Senegal**
 
-**Pays : Sénégal**  
-**Société civile sénégalaise**
+**Senegalese civil society**

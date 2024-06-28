@@ -8,7 +8,8 @@ category:
 feature_image: /images/team/Mamadou Ly.png
 author: Abdoulaye Guene
 ---
-**Mamadou Ly** est le fondateur et éditeur de la plateforme multimédia d’édition et de diffusion d’information ‘’Ma revue de presse’’.  Après plusieurs années d’études, Mamadou Ly a travaillé dans le secteur privé national, avant de se lancer en politique en rejoignant l’ancien Premier ministre Moustapha Niasse au sein de l’Alliance des forces de progrès (AFP), en tant que principal responsable administratif pendant plusieurs années. Cette position lui a permis de côtoyer le secteur des médias, une expérience qui lui permettra de mettre en place ‘’Ma revue de presse’’. Sur cette plateforme, l’on peut découvrir la une des quotidiens du jour, une synthèse des nouvelles de l’actualité et diverses autres publications.
+**Mamadou Ly** is the founder and publisher of the multimedia platform for publishing and disseminating information called "Ma revue de presse". After several years of studies, Mamadou Ly worked in the national private sector in Senegal, before embarking on a political career by joining former Prime Minister Moustapha Niasse within the Alliance of Forces of Progress (AFP), as the main administrative officer for several years. This position allowed him to rub shoulders with the media sector, an experience that will allow him to set up "Ma revue de presse". On this platform, one can finds the front pages of the daily newspapers, a summary of news and various other publications.
 
-**Pays : Sénégal**  
-**Société civile sénégalaise** 
+**Country: Senegal**
+
+**Senegalese civil society**

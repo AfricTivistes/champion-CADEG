@@ -8,8 +8,10 @@ category:
 feature_image: /images/team/Alioune Tine.png
 author: Abdoulaye Guene
 ---
-**Alioune Tine**, est engagé sur la question des droits humains depuis toujours. Il a contribué à la création de la RADDHO dans les années 90. Il était d’abord chargé des affaires extérieures, représentant la Commission africaine de l’OMS, puis ensuite, à partir de 1998, il est devenu président de la Raddho. En 2013, il quitte la RADDHO pour être le président du Comité sénégalais des droits de l’homme puis le directeur régional d’ Amnesty pour l’Afrique de l’Ouest et du Centre. Il est également l’expert Indépendant des Nations unies sur la situation des droits de l’homme au Mali et le fondateur du think tank AfrikaJom Center.
+**Alioune Tine** has been engaged on the issue of human rights for as long as he can remember. He contributed to the creation of RADDHO, an Africa-focused human rights organisation based in Senegal, in the 1990s. He was first in charge of External affairs, representative of the African Commission of the WHO, and then from 1998 onwards, he became the president of RADDHO. In 2013, he left RADDHO to become the president of the Senegalese Human Rights Committee and then the regional director of Amnesty for West and Central Africa. He is also the Independent Expert of the United Nations on the human rights situation in Mali and the founder of the think tank AfrikaJom Center.
 
-**Pays : Sénégal** 
+**Country: Senegal**
 
-**Organisation : AfrikaJom Center**
+**Organisation: AfrikaJom Center**
+
+**African civil society**
