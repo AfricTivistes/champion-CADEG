@@ -8,8 +8,8 @@ category:
 feature_image: /images/team/Maateuw_Mbaye.png
 author: Abdoulaye Guene
 ---
-**Maateuw MBAYE**, point focal à ARTICLE 19 de la protection et espace civique au Sénégal et en Afrique de l’ouest. Titulaire d’un master en MBA et d’une licence en langues étrangères appliquées aux affaires internationales. Travaille depuis 5 sur les droits de l’homme à ARTICLE 19. Auparavant à travailler pour le Centre Africain pour la Prévention et la Résolution des Conflits ( CAPREC). Passionné de Droits Humains, démocratie, protection, digitale 
+**Maateuw Mbaye**, focal point at ARTICLE 19 for the Protection of the civic space in Senegal and West Africa. He holds  an MBA and a Bachelor's degree in applied foreign languages for international business. He has been working on human rights for the last 5 years at ARTICLE 19. He previously worked for the African Centre for the Prevention and Resolution of Conflicts (CAPREC). He is passionate about human rights, democracy, protection, digital.
 
-**Pays : Sénégal** 
+**Country: Senegal**
 
-**Organisation : Article 19**
+**Organisation: Article 19 Senegal and West Africa**

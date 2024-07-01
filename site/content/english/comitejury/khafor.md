@@ -8,12 +8,12 @@ category:
 feature_image: /images/team/Abdou Khafor Kandji.png
 author: Abdoulaye Guene
 ---
-**Abdou Khafor KANDJI** est né et a grandi à Diourbel, une région du Sénégal située à plus de cent kilomètres de Dakar. Il est titulaire d'une licence en management des entreprises et des organisations à l’Institut Africain de Management (IAM)
+**Abdou Khafor KANDJI** is a project manager with the renowned social change movement  Y En A Marre. He holds a Bachelor's degree in Business and organisation management from the African Institute of Management (IAM).
 
-Il a commencé à militer au sein du mouvement Y en a marre en 2012. En 2014, il est élu coordonnateur de l’Esprit (nom donné aux différentes cellules du mouvement) de Diourbel, poste qu'il occupe jusqu'en 2016.
+He began to be involved in the Y En A Marre movement in 2012. In 2014, he was elected coordinator of the Esprit (the name given to the different cells of the movement) of Diourbel, a position he held until 2016.
 
-Lors de l'assemblée générale du mouvement en 2017, qui a marqué la première alternance dans la gouvernance de l'organisation, il a rejoint la coordination nationale. Il fait également partie de l'équipe chargée de la mise en œuvre de la vision citoyenne du mouvement intitulée Tabax Elleg : sur les chantiers du Nouveau Type de Sénégalais (NTS) à travers des programmes et projets. Depuis octobre 2023, il suit un master en suivi et évaluation des projets, programmes et politiques au Centre Africain d’Etudes Supérieur en Gestion (Cesag).
+He joined the National coordination team during the general assembly of the movement in 2017, which marked the first change in the governance of the organisation. He is also part of the team in charge of  implementing the civic vision of the movement entitled Tabax Elleg (preparing tomorrow) to build the New Type of Senegalese (NTS) through programmes and projects. Since October 2023, he has been pursuing a Master's degree in Project, programme and policy monitoring and evaluation at the African Center for Higher Studies in Management (Cesag).
 
-**Pays :  Sénégal** 
+**Country: Senegal**
 
-**Organisation : Y En A Marre**
+**Organisation: Y En A Marre**

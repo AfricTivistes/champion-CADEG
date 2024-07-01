@@ -8,7 +8,8 @@ category:
 feature_image: /images/team/Sylla SOW.png
 author: Abdoulaye Guene
 ---
-**Sylla Sow,** est Docteur en Droit international public, Maître de conférences assimilé, chargé d’enseignement à l’Université Cheikh Anta Diop de Dakar.  Depuis 2008 Sylla Sow est chercheur Associé à Article19 Afrique de l’Ouest. Il est le Secrétaire-adjoint du jury. 
+**Sylla Sow** holds a PhD in International Public Law. He is an Associate Professor and a lecturer at the Cheikh Anta Diop University of Dakar. Since 2008, Sylla Sow has been an Associate Researcher at Article19 West Africa. He is the Deputy Secretary General of the Panel of judges of the Champion initiative.
 
-**Pays :  Sénégal**
-**Société civile sénégalaise**
+**Country: Senegal**
+
+**African civil society**

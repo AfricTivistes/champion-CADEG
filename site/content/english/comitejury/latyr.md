@@ -9,14 +9,12 @@ feature_image: /images/team/Latyr Tine.png
 author: Abdoulaye Guene
 ---
 
-**Dr. Latyr Tine**, Chercheur en paix et sécurité, Coordonnateur principal de programme à l'Institut de Gorée. Il est titulaire d'un doctorat en sciences sociales et chercheur en paix et sécurité, spécialisé dans l'Afrique de l'Ouest et la région du Sahel. Il coordonne le programme de Consolidation de la Paix et de Prévention des Conflits à l'Institut de Gorée depuis août 2021, et il gère également le programme régional Puissance du Dialogue couvrant les pays du Sahel et le Projet Charte Afrique.
+**Dr Latyr Tine**, Peace and Security Researcher, Senior Programme Coordinator at the Gorée Institute (GI). He holds a doctorate in Social sciences and is a Peace and security researcher, specialising in West Africa and the Sahel region. He coordinates the Peace-building and Conflict Prevention Programme at the Gorée Institute since August 2021. He also manages the GI’s Charter Africa Project activities and the Regional Power of Dialogue programme covering the Sahel countries. 
 
-Avant cela, le Dr Tine était gestionnaire de programme chez Partners West Africa, où il a dirigé deux projets majeurs, notamment la feuille de route pour la sécurité dans le Sahel. Il a également géré les programmes Femmes, Paix et Sécurité, et Jeunesse, Paix et Sécurité au Réseau Ouest-Africain pour la Consolidation de la Paix. M. Tine est titulaire de trois masters et d'un doctorat.
+Prior to this, Dr Tine was a programme manager at Partners West Africa, where he led two major projects, including the Security roadmap for the Sahel. He also managed the Women, Peace and Security, as well as the Youth, Peace and Security programmes at the West African Network for Peace-building (WANEP). Mr Tine holds three Master's degrees and a doctorate.
 
-En tant que chercheur en paix et sécurité, il a contribué à plusieurs études et a publié de nombreux articles sur des questions liées à la paix et à la sécurité en Afrique de l'Ouest et au Sahel.
+As a peace and security researcher, he has contributed to several studies and published numerous articles on issues related to peace and security in West Africa and the Sahel. He also works as a consultant for various national and international organisations.
 
-Il travaille également comme consultant pour diverses organisations nationales et internationales.
-
-**Pays: Sénégal** 
+**Country: Senegal**
 
 **Organisation: Gorée Institute**

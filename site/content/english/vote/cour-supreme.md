@@ -10,8 +10,6 @@ site:
 linkedIn: 
 twitter: ""
 ---
-The Supreme Court of Kenya
-
 The Supreme Court of Kenya stands out for its inspiring and bold decisions. The members of the Kenyan Supreme Court are nominated. This Supreme Court has made the fight against corruption a priority, ordering investigations and handing down firm rulings.
 
 The Court also remains one of the few, if not the only, court on the African continent to have [cancelled a presidential election](https://edition.cnn.com/2017/09/01/africa/kenya-election/index.html) due to irregularities, underlining its independence and commitment to justice. The Kenyan judiciary has frequently overturned executive decisions. 

@@ -8,8 +8,8 @@ category:
 feature_image: /images/team/Aminata Diallo.png
 author: Abdoulaye Guene
 ---
-**Aminata Diallo**, Secrétaire générale du jury, est Coordinatrice de projet pour les initiatives humanitaires. Consultant en droits et protection des femmes et des enfants. Député à la XIIe Législature Sénégalaise, elle est aussi présidente du réseau des Parlementaires qui s’intéresse à la protection des enfants contre les violences et les abus.  Présidente élue du Comité des Femmes et 
-Conseillère Spéciale en Genre et Enfance, elle a pour centres d’intérêt aux questions sociales. 
+**Aminata Diallo**, the Secretary General of the Panel of judges of the Champion initiative, is a Project Coordinator for humanitarian initiatives and a Consultant on the rights and protection of women and children. She was a member of  the 12th Senegalese Legislature and also President of the network of Parliamentarians interested in the protection of children against violence and abuse. She was elected President of the Women's Committee and Special Advisor on Gender and Childhood, her areas of interest are social issues.
 
-**Pays : Sénégal**  
-**Société civile sénégalaise**
+**Country: Senegal**
+
+**Senegalese civil society**

@@ -8,11 +8,8 @@ category:
 feature_image: /images/team/Demba Gueye.png
 author: Abdoulaye Guene
 ---
-**Demba Gueye** est un expert de la communication digitale. Il est en charge de l'agence de communication digitale AZERTY 1 SARL. 
+**Demba Gueye** is a digital communication expert. He is in charge of the digital communication agency AZERTY 1 SARL. As the initiator of the Kebetu Digital Academy, he supports those who take their online presence, as well as that of their organisation, seriously in order to perform, regardless of the objective they have set for themselves. He is a founding member of AfricTivistes and an active member of the French-speaking Twitter community and a civil society actor.
 
-Initiateur de la Kebetu Digital Academy, j'accompagne ceux et celles qui prennent au sérieux leur présence en ligne, ainsi que celle de leur organisation, à performer, quelque soit l'objectif qu'ils se sont fixés.
+**Country: Senegal**
 
-C’est un membre actif de la twittosphère africaine francophone et un acteur de la société civile.
-
-**Pays : Sénégal**  
-**Organisation : AfricTivistes**
+**Organisation: AfricTivistes**

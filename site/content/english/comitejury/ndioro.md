@@ -8,9 +8,10 @@ category:
 feature_image: /images/team/Ndioro_ndiaye.png
 author: Abdoulaye Guene
 ---
-**Ndioro Ndiaye,** Elle est nommée ministre du Développement social dans le sous le deuxième mandat du président Abdou Diouf. En tant que ministre de tutelle, elle est confrontée au conflit sénégalo-mauritanien qui éclate en 1989. Elle coordonne des opérations humanitaires et recherche des solutions pour les réfugiés, tant sénégalais que mauritaniens. Dans le gouvernement du 27 mars 1990 elle devient ministre délégué auprès du Président de la République chargé de la Condition de la Femme et de l’Enfant. Dans les gouvernements formés par Habib Thiam en 1993, on lui confie le ministère de la Femme, de l’Enfant et de la Famille. La même année, en tant que présidente de la Conférence régionale des femmes africaines, elle participe activement à la préparation de la Quatrième Conférence Mondiale sur les Femmes qui se tient à Pékin.
+**Ndioro Ndiaye** was appointed Minister of Social Development during the second term of President Abdou Diouf. As the supervising minister, she was confronted with the Senegal-Mauritania conflict that erupted in 1989. She coordinated humanitarian operations and sought solutions for both Senegalese and Mauritanian refugees. In the government formed on March 27, 1990, she became the Minister Delegate to the President of the Republic in charge of the Status of Women and Children. In the governments formed by Habib Thiam in 1993, she was entrusted with the Ministry of Women, Children and Family. That same year, as President of the Regional Conference of African Women, she actively participated in the preparation of the Fourth World Conference on Women held in Beijing.
 
-Directrice générale adjointe de l'Organisation internationale pour les migrations depuis 1999, elle est réélue en 2004 et conserve ce poste jusqu'en 2009.
+Deputy Director-General of the International Organisation for Migration since 1999, she was re-elected in 2004 and held this position until 2009.
 
-**Pays : Sénégal**  
-**Société civile sénégalaise**
+**Country: Senegal**
+
+**African civil society**

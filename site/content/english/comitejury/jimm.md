@@ -8,8 +8,8 @@ category:
 feature_image: /images/team/Jimm Chick Fomunjong.png
 author: Abdoulaye Guene
 ---
-**Jimm Chick Fomunjong** est camerounais et est actuellement chef de l'unité de gestion des connaissances et de communication à l'Institut de la société civile de l'Afrique de l'Ouest (WACSI).
+**Jimm Chick Fomunjong** currently heads  the Knowledge management and Communication unit of the West Africa Civil Society Institute (WACSI). 
 
-**Pays :  Cameroun**
+**Country: Cameroon**
 
-**Organisation : WACSI**
+**Organisation: WACSI**

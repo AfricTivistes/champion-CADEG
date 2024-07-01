@@ -8,12 +8,14 @@ category:
 feature_image: /images/team/Ibrahima Kane.png
 author: Abdoulaye Guene
 ---
-**Ibrahima Kane**, vice-président du jury, est conseiller spécial auprès du directeur exécutif de la Fondation Open Society-Afrique, responsable du plaidoyer auprès de l'Union africaine, et avocat qualifié au Sénégal et en France. Avant de rejoindre la Fondation Open Society en 2007, il a été cadre juridique supérieur chargé du programme Afrique chez INTERIGHTS pendant 10 ans.
+**Ibrahima Kane**,  the Deputy-Chairperson of the Panel of judges of the Champion initiative, is a special advisor to the executive director of the Open Society Foundation-Africa, in charge of advocacy with the African Union, and a lawyer in Senegal and France. Before joining the Open Society Foundation in 2007, he was a senior legal officer in charge of the Africa programme at INTERIGHTS for 10 years.
 
-En tant que membre fondateur de RADDHO, une organisation sénégalaise de défense des droits humains, Kane a dirigé un programme axé sur l'éducation du public et les droits des femmes dans cinq pays d'Afrique de l'Ouest - Cap-Vert, République de Guinée, République de Guinée-Bissau, Mauritanie et Sénégal - pendant six ans.
+As a founding member of RADDHO, an Africa-focused human rights organisation based in Senegal, Kane led a programme focused on public education and women's rights in five West African countries - Cape Verde, Republic of Guinea, Republic of Guinea-Bissau, Mauritania and Senegal - for six years.
 
-Ibrahima s'intéresse particulièrement aux droits économiques, sociaux et culturels, aux droits des femmes, aux droits des migrants et des réfugiés, aux questions de nationalité sur le continent africain et à la recherche de la justice par le biais de mécanismes régionaux et internationaux. Au cours des quinze dernières années, Kane a travaillé en étroite collaboration avec la Commission africaine des droits de l'homme et des peuples, la Commission de l'Union africaine, le Comité africain d'experts sur les droits et le bien-être de l'enfant, la Cour de justice de la CEDEAO et la Cour de justice de la Communauté d'Afrique de l'Est (CAE), et a plaidé devant ces instances. Il est auteur et a coordonné la rédaction et la publication de plusieurs rapports et articles sur l'Union africaine, la Commission africaine des droits de l'homme et des peuples et la protection des droits de l'homme par les organes de la communauté économique régionale. Il a également été maître de conférences associé à l'École de droit de l'Université d'Essex de 2005 à 2011.
+Ibrahima is particularly interested in economic, social and cultural rights, women's rights, the rights of migrants and refugees, issues of nationality on the African continent and the pursuit of justice through regional and international mechanisms. Over the past fifteen years, Kane has worked closely with the African Commission on Human and Peoples' Rights, the African Union Commission, the African Committee of Experts on the Rights and Welfare of the Child, the ECOWAS Court of Justice and the East African Community (EAC) Court of Justice, and has pleaded before these bodies. He is an author and has coordinated the drafting and publication of several reports and articles on the African Union, the African Commission on Human and Peoples' Rights and the protection of human rights by the bodies of the regional economic community. He has also been an associate lecturer at the University of Essex School of Law from 2005 to 2011.
 
+**Country: Senegal**
 
-**Pays : Sénégal**  
-**Société civile africaine**
+**Organisation: Open Society Africa**
+
+**African civil society**

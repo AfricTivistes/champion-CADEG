@@ -15,16 +15,18 @@
           </div>
         </div>
         {{ range .candidat_item }}
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-6 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
               <div class="thumb">
                 
-                <img src="{{ .thumb | absURL }}" alt="user-thumb-one" class="img-fluid" style="width: 100px; height: 80px;">
+                <img src="{{ .thumb | absURL }}" alt="user-thumb-one"  style="width: 80px; height: 80px;">
               </div>
-              <div class="person">
-                <h5>{{ .name }}</h5>
-                <p>{{ .company_position }}</p>
+              <div class="person ml-1">
+                <a href="{{ .url | absURL }}">
+                  <h5>{{ .name }}</h5>
+                  <p>{{ .company_position }}</p>
+                </a>
               </div>
             </div>
             <!--- progression bar -->

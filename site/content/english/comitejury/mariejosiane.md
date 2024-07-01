@@ -8,16 +8,18 @@ category:
 feature_image: /images/team/Marie Josiane Ngah.png
 author: Abdoulaye Guene
 ---
-**Marie Josiane Ngah**, présidente du jury, est la coordinatrice du projet du Réseau de solidarité démocratique en Afrique de l’Ouest (WADEMOS) pour l’Afrique de l’Ouest francophone.
+**Marie Josiane Ngah**, the Chairperson of the Panel of judges of the Champion initiative, is the coordinator of the West African Democratic Solidarity Network (WADEMOS) for Francophone West Africa.
 
-Elle est passionnée de gouvernance et des politiques publiques et du suivi et de l’évaluation des programmes de développement socio-économique. Elle possède une riche expérience de travail,plus de 10 ans, avec des organisations à but non lucratif et internationales pour améliorer l’utilisation des données probantes pour éclairer la conception et la mise en œuvre des politiques et des programmes.
+She is passionate about governance, public policies, and the monitoring and evaluation of socio-economic development programmes. She has an over 10 years wealth of experience with non-profit and international organisations to improve the use of evidence to inform the design and implementation of policies and programmes.
 
-Marie Josiane a été responsable pays et responsable du suivi, de l’évaluation et de l’apprentissage chez PACKS Africa au Ghana. Avant de rejoindre PACKS Africa, elle a travaillé au Département du commerce et de l’industrie de la Commission de l’Union africaine en tant que Associée Jeune et analyste politique à Addis-Abeba, en Éthiopie.
+Marie Josiane has been the country manager and the monitoring, evaluation and learning lead at PACKS Africa in Ghana. Prior to joining PACKS Africa, she worked at the Department of Trade and Industry of the African Union Commission as a Young Professional and Policy analyst in Addis Ababa, Ethiopia.
 
-Elle est titulaire d’une maîtrise en relations internationales de l’Institut des relations internationales du Cameroun. Elle est également une ancienne élève du programme Building State Capability du Centre pour le développement international de l’Université Harvard.
+She holds a Master's degree in international relations from the Institute of International Relations of Cameroon. She is also an alumna of the Building State Capability programme at the Center for International Development, Harvard University.
 
-Elle est membre de l’Africa Evidence Network basé à Johannesburg, en Afrique du Sud. 
+She is a member of the Africa Evidence Network based in Johannesburg, South Africa.
 
-**Pays :  Ghana** 
+**Country: Ghana**
 
-**Société civile africaine**
+**Organisation: WADEMOS**
+
+**African civil society**
