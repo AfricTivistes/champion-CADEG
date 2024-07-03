@@ -1,20 +1,23 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ with $data.candidat }}
   {{ if .enable }}
-  <section class="site-testimonial">
+  <section class="mt-3">
     <div class="container custom-container">
       <div class="row">
         {{ range .candidat_item }}
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-6 col-md-6">
           <div class="site-testimonial-item">
             <div class="site-testimonial-item-header">
               <div class="thumb">
-                <img src="{{ .thumb | absURL }}" alt="user-thumb-one" class="img-fluid thumb-img">
+                <img src="{{ .thumb | absURL }}" alt="user-thumb-one" style="width: 80px; height: 80px;">
               </div>
+              <a href="{{ .url | absURL }}">
               <div class="person">
                 <h5>{{ .name }}</h5>
                 <p>{{ .company_position }}</p>
               </div>
+              </a>
+
             </div>
             <!--- progression bar -->
             <div id="{{ .id }}" class="progression-bar">
