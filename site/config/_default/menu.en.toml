@@ -16,6 +16,6 @@
   url     = "en/comitejury"
   weight  = 4
 [[nav]]
-  name    = "Vote"
+  name    = "Champions"
   url     = "en/vote"
   weight  = 5
